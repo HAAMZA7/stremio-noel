@@ -1,0 +1,23 @@
+{
+  "id": "com.hamza.stremio.noel.fr",
+  "version": "1.0.0",
+  "name": "🎄 Films de Noël",
+  "description": "Sélection spéciale de 20 films de Noël incontournables (titres et résumés en français).",
+  "logo": "https://em-content.zobj.net/source/apple/391/christmas-tree_1f384.png",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "noel_fr",
+      "name": "🎄 Films de Noël"
+    }
+  ]
+}
