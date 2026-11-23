@@ -113,54 +113,6 @@
       "description": "Le Père Noël a été kidnappé : Dwayne Johnson et Chris Evans mènent une mission explosive autour du globe."
     },
     {
-      "id": "tt2990140",
-      "type": "movie",
-      "name": "Les Chroniques de Noël",
-      "poster": "https://images.metahub.space/poster/small/tt2990140/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt2990140/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2990140/img",
-      "releaseInfo": "2018",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Deux enfants provoquent le crash du traîneau et aident un Père Noël ultra-cool à sauver Noël."
-    },
-    {
-      "id": "tt11057644",
-      "type": "movie",
-      "name": "Les Chroniques de Noël 2",
-      "poster": "https://images.metahub.space/poster/small/tt11057644/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt11057644/img",
-      "logo": "https://images.metahub.space/logo/medium/tt11057644/img",
-      "releaseInfo": "2020",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Kate retrouve le Père Noël et Mère Noël pour protéger le village du Pôle Nord."
-    },
-    {
-      "id": "tt10999120",
-      "type": "movie",
-      "name": "Spirited : L'Esprit de Noël",
-      "poster": "https://images.metahub.space/poster/small/tt10999120/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt10999120/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10999120/img",
-      "releaseInfo": "2022",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Comédie musicale moderne, drôle et rythmée avec Ryan Reynolds et Will Ferrell."
-    },
-    {
       "id": "tt14849194",
       "type": "movie",
       "name": "Winter Break",
@@ -209,22 +161,6 @@
       "description": "Un vieux monsieur engagé dans un grand magasin affirme être le vrai Père Noël."
     },
     {
-      "id": "tt0388419",
-      "type": "movie",
-      "name": "Noël à tout prix !",
-      "poster": "https://images.metahub.space/poster/small/tt0388419/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0388419/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0388419/img",
-      "releaseInfo": "2004",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Un couple décide de zapper Noël pour partir en croisière, jusqu'au retour surprise de leur fille."
-    },
-    {
       "id": "tt0116705",
       "type": "movie",
       "name": "La Course au jouet",
@@ -239,38 +175,6 @@
         "Sélection"
       ],
       "description": "Arnold Schwarzenegger traverse toute la ville le 24 décembre pour trouver le jouet star de son fils."
-    },
-    {
-      "id": "tt10187208",
-      "type": "movie",
-      "name": "Un garçon nommé Noël",
-      "poster": "https://images.metahub.space/poster/small/tt10187208/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt10187208/img",
-      "logo": "https://images.metahub.space/logo/medium/tt10187208/img",
-      "releaseInfo": "2021",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Un jeune garçon courageux part dans le Grand Nord enneigé à la recherche du village des elfes."
-    },
-    {
-      "id": "tt12459520",
-      "type": "movie",
-      "name": "La Famille Claus",
-      "poster": "https://images.metahub.space/poster/small/tt12459520/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt12459520/img",
-      "logo": "https://images.metahub.space/logo/medium/tt12459520/img",
-      "releaseInfo": "2020",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Jules découvre que son grand-père est le vrai Père Noël et qu'il doit prendre la relève."
     },
     {
       "id": "tt0087363",

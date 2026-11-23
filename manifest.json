@@ -1,8 +1,8 @@
 {
   "id": "com.hamza.stremio.noel.fr",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "name": "🎬 Sélections Maison (FR)",
-  "description": "Portail maison : 3 rangées Spécial Noël + Spécial Stephen King (titres et résumés en français).",
+  "description": "Portail maison 100% VF vérifié : Noël (3 rangées) + Stephen King, résumés & audio français.",
   "logo": "https://em-content.zobj.net/source/apple/391/christmas-tree_1f384.png",
   "resources": [
     "catalog"

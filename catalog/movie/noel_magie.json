@@ -1,22 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt4729430",
-      "type": "movie",
-      "name": "Klaus",
-      "poster": "https://images.metahub.space/poster/small/tt4729430/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt4729430/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4729430/img",
-      "releaseInfo": "2019",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Le chef-d'œuvre moderne de Noël : un facteur dans le Grand Nord rencontre un mystérieux fabricant de jouets."
-    },
-    {
       "id": "tt14855468",
       "type": "movie",
       "name": "Ce Noël-là (2024)",
@@ -63,22 +47,6 @@
         "Sélection"
       ],
       "description": "Version animée lumineuse et très drôle du célèbre grincheux vert."
-    },
-    {
-      "id": "tt1430607",
-      "type": "movie",
-      "name": "Mission : Noël",
-      "poster": "https://images.metahub.space/poster/small/tt1430607/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt1430607/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1430607/img",
-      "releaseInfo": "2011",
-      "imdbRating": "",
-      "genres": [
-        "Noël",
-        "Sélection"
-      ],
-      "description": "Un seul cadeau oublié la nuit de Noël : Arthur, le fils maladroit du Père Noël, lance l'opération sauvetage."
     },
     {
       "id": "tt1446192",
