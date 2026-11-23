@@ -214,6 +214,202 @@
       ],
       "description": "Edward n’est pas un garçon ordinaire. Création d’un inventeur, il a reçu un cœur pour aimer, un cerveau pour comprendre. Mais son concepteur est mort avant d’avoir pu terminer son œuvre et Edward se retrouve avec des lames de métal et des instruments...",
       "runtime": "1h45min"
+    },
+    {
+      "id": "tt1430607",
+      "type": "movie",
+      "name": "Mission : Noël - Les Aventures de la famille Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/kqed1i8MjX8zyXOnQLHatShGhVc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+      "releaseInfo": "2011",
+      "imdbRating": "7.1",
+      "genres": [
+        "Drame",
+        "Animation",
+        "Familial"
+      ],
+      "description": "Ce film répond enfin à la question que se posent tous les enfants. Comment le Père Noël peut-il distribuer les cadeaux dans le monde entier et ce en une seule nuit ? Tout simplement grâce à un centre installé au Pôle Nord qui possède le top de la...",
+      "logo": "https://image.tmdb.org/t/p/original/2IN87G5IyGgUg1XzBFZRh2lHMrL.png",
+      "runtime": "1h38min"
+    },
+    {
+      "id": "tt0295297",
+      "type": "movie",
+      "name": "Harry Potter et la Chambre des secrets",
+      "poster": "https://image.tmdb.org/t/p/w500/8KpHRokGpiaqEGpjYe0rpywtvUx.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg",
+      "releaseInfo": "2002",
+      "imdbRating": "7.5",
+      "genres": [
+        "Aventure",
+        "Fantastique"
+      ],
+      "description": "Après de très mauvaises vacances passées chez ses odieux oncle et tante et son affreux cousin, Harry rejoint, non sans mal, l'École des Sorciers où, avec ses amis Ron et Hermione et l'aide ponctuelle de nouveaux venus, il parvient à élucider le mystère de...",
+      "logo": "https://image.tmdb.org/t/p/original/mtC645tcdSq4cOhdlmwKuR2G3oq.png",
+      "runtime": "2h41min"
+    },
+    {
+      "id": "tt0304141",
+      "type": "movie",
+      "name": "Harry Potter et le Prisonnier d'Azkaban",
+      "poster": "https://image.tmdb.org/t/p/w500/t4P2079IyK19njHDP2GwQrKdvzd.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+      "releaseInfo": "2004",
+      "imdbRating": "7.9",
+      "genres": [
+        "Aventure",
+        "Fantastique"
+      ],
+      "description": "Sirius Black, un dangereux sorcier criminel, s’échappe de la sombre prison d’Azkaban avec un seul et unique but : retrouver Harry Potter, en troisième année à l’école de Poudlard. Selon la légende, Black aurait jadis livré les parents du jeune sorcier à...",
+      "logo": "https://image.tmdb.org/t/p/original/1ARqQGBqojxawoh4P772wdlNsq7.png",
+      "runtime": "2h22min"
+    },
+    {
+      "id": "tt0367594",
+      "type": "movie",
+      "name": "Charlie et la Chocolaterie",
+      "poster": "https://image.tmdb.org/t/p/w500/tR4PU2wRPzGKmF665lE5wULGb3X.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+      "releaseInfo": "2005",
+      "imdbRating": "6.7",
+      "genres": [
+        "Aventure",
+        "Comédie",
+        "Familial"
+      ],
+      "description": "Charlie est un enfant issu d'une famille pauvre. Travaillant pour subvenir aux besoins des siens, il doit économiser chaque penny, et ne peut s'offrir les friandises dont raffolent les enfants de son âge. Pour obtenir son comptant de sucreries, il...",
+      "logo": "https://image.tmdb.org/t/p/original/1fl09FBvlVvJSqNedE2TlgeTvHh.png",
+      "runtime": "1h55min"
+    },
+    {
+      "id": "tt6166392",
+      "type": "movie",
+      "name": "Wonka",
+      "poster": "https://image.tmdb.org/t/p/w500/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+      "releaseInfo": "2023",
+      "imdbRating": "6.9",
+      "genres": [
+        "Comédie",
+        "Familial",
+        "Fantastique"
+      ],
+      "description": "Inspiré du personnage principal hors du commun de Charlie et la Chocolaterie, le best-seller de Roald Dahl qui est aujourd'hui l'un des livres pour enfants les plus vendus de tous les temps, « Wonka » est une histoire merveilleuse retraçant la jeunesse de...",
+      "logo": "https://image.tmdb.org/t/p/original/2Oj6hveIEuWEQRZ3GiDhl1vXAWz.png",
+      "runtime": "1h57min"
+    },
+    {
+      "id": "tt1109624",
+      "type": "movie",
+      "name": "Paddington",
+      "poster": "https://image.tmdb.org/t/p/w500/mkW28gYGYdVzQJDUuYo5jww1cB8.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "releaseInfo": "2014",
+      "imdbRating": "7.3",
+      "genres": [
+        "Comédie",
+        "Aventure",
+        "Familial"
+      ],
+      "description": "Paddington raconte l'histoire d'un jeune ours péruvien fraîchement débarqué à Londres, à la recherche d'un foyer et d'une vie meilleure. Il réalise vite que la ville de ses rêves n'est pas aussi accueillante qu'il croyait. Par chance, il rencontre la...",
+      "logo": "https://assets.fanart.tv/fanart/paddington-54114dbfcbcb9.png",
+      "runtime": "1h35min"
+    },
+    {
+      "id": "tt4468740",
+      "type": "movie",
+      "name": "Paddington 2",
+      "poster": "https://image.tmdb.org/t/p/w500/ezRJ5yumJEK3l5EcyGfb0ZZJlzX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
+      "releaseInfo": "2017",
+      "imdbRating": "7.8",
+      "genres": [
+        "Aventure",
+        "Comédie",
+        "Familial"
+      ],
+      "description": "Installé dans sa nouvelle famille à Londres, Paddington est devenu un membre populaire de la communauté locale. À la recherche du cadeau parfait pour le 100ème anniversaire de sa chère Tante Lucy, Paddington tombe sur un livre animé exceptionnel. Il se met...",
+      "logo": "https://assets.fanart.tv/fanart/paddington-2-59e1da7e9a0ac.png",
+      "runtime": "1h43min"
+    },
+    {
+      "id": "tt0398286",
+      "type": "movie",
+      "name": "Raiponce",
+      "poster": "https://image.tmdb.org/t/p/w500/xZhAFR0N2r5q7tJNWaBGzHUaeb5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+      "releaseInfo": "2010",
+      "imdbRating": "7.7",
+      "genres": [
+        "Animation",
+        "Familial",
+        "Aventure"
+      ],
+      "description": "Quand le bandit le plus recherché du royaume, Flynn Rider, se cache dans une mystérieuse tour, il est pris en otage par Raiponce, une jolie adolescente avec des cheveux de 20 mètres. La curieuse ravisseuse de Flynn, qui cherche à s’échapper de la tour où...",
+      "logo": "https://image.tmdb.org/t/p/original/xETDaCINKea0sKNJo2YumkXc1D9.png",
+      "runtime": "1h41min"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto, la fantastique famille Madrigal",
+      "poster": "https://image.tmdb.org/t/p/w500/vkrAGbjK6TRMrAW5Gq0SmNPOAoc.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+      "releaseInfo": "2021",
+      "imdbRating": "7.2",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Familial"
+      ],
+      "description": "Dans un mystérieux endroit niché au cœur des montagnes de Colombie, la fantastique famille Madrigal habite une maison enchantée dans une cité pleine de vie, un endroit merveilleux appelé Encanto. L’Encanto a doté chacun des enfants de la famille d’une...",
+      "logo": "https://image.tmdb.org/t/p/original/julfkDJZTG80YZnaxOYd42OL5sk.png",
+      "runtime": "1h42min"
+    },
+    {
+      "id": "tt2380307",
+      "type": "movie",
+      "name": "Coco",
+      "poster": "https://image.tmdb.org/t/p/w500/sZqcEV3KhDITHlUBmyj1a3RRvT9.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "releaseInfo": "2017",
+      "imdbRating": "8.4",
+      "genres": [
+        "Familial",
+        "Animation",
+        "Musique"
+      ],
+      "description": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz. Bien décidé à prouver son talent,...",
+      "logo": "https://image.tmdb.org/t/p/original/cTaWqsn54w83nCpX8K3tuTRa3OG.png",
+      "runtime": "1h50min"
+    },
+    {
+      "id": "tt2096673",
+      "type": "movie",
+      "name": "Vice-versa",
+      "poster": "https://image.tmdb.org/t/p/w500/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+      "releaseInfo": "2015",
+      "imdbRating": "8.1",
+      "genres": [
+        "Animation",
+        "Familial",
+        "Aventure"
+      ],
+      "description": "Riley est déracinée du Mid-Ouest quand son père est muté à San Francisco. Comme tous, Riley est guidée par ses Émotions : Joie, Peur, Colère, Dégoût et Tristesse. Les Émotions vivent au Quartier Cérébral, où elles la conseillent au quotidien. Alors que...",
+      "logo": "https://image.tmdb.org/t/p/original/aklCYUQ9eX0utk6YLL7UzP1JiQw.png",
+      "runtime": "1h34min"
     }
   ]
 }

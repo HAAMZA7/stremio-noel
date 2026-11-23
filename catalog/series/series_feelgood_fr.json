@@ -1,0 +1,237 @@
+{
+  "metas": [
+    {
+      "id": "tt8740790",
+      "type": "series",
+      "name": "La Chronique des Bridgerton",
+      "poster": "https://image.tmdb.org/t/p/w500/hiEIKOkaP1PcWUeqjWeKr8eWF1Q.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+      "releaseInfo": "2020-",
+      "imdbRating": "7.5",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Dans la haute société londonienne du XIXe siècle, durant la Régence anglaise, les membres de la puissante et influente famille Bridgerton cherchent l'amour et le mariage à travers les bals et les intrigues de la haute société.\n\nChaque saison suit les...",
+      "logo": "https://image.tmdb.org/t/p/original/4LJSDHom3ifYEAbGWixIewGc6Li.svg",
+      "runtime": "1h11min"
+    },
+    {
+      "id": "tt8962124",
+      "type": "series",
+      "name": "Emily in Paris",
+      "poster": "https://image.tmdb.org/t/p/w500/eFHfW94jhUwG93grXvugMT8ThF5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+      "releaseInfo": "2020-",
+      "imdbRating": "6.8",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "description": "Nouvelles passions, nouvelles modes, nouvelle Emily ? Une Américaine génie du marketing s'épanouit en amour comme dans la vie après avoir décroché le job de ses rêves à Paris.",
+      "logo": "https://image.tmdb.org/t/p/original/7qheavuFpI6Fy1Zx8xusA4dpQNu.png",
+      "runtime": "36min"
+    },
+    {
+      "id": "tt0410975",
+      "type": "series",
+      "name": "Desperate Housewives",
+      "poster": "https://image.tmdb.org/t/p/w500/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/hW9NOFs8xUevb90KQYHhbifp9Po.jpg",
+      "releaseInfo": "2004-2012",
+      "imdbRating": "7.7",
+      "genres": [
+        "Mystère",
+        "Drame",
+        "Comédie"
+      ],
+      "description": "Derrière une façade tirée d'une carte postale vivent quatre femmes dont l'existence est tout sauf idéale. Susan est maladroite, divorcée et mère d'une adolescente nommée Julie. Lynette est mariée avec Tom et ont quatre enfants tapageurs qui la poussent à...",
+      "logo": "https://image.tmdb.org/t/p/original/mNbHF3OMMKxjzj2cIsJzgCaCJqr.svg",
+      "runtime": "42min"
+    },
+    {
+      "id": "tt0397442",
+      "type": "series",
+      "name": "Gossip Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/7AJ1EW6ZytkcGzZ1Sdwy5m0w4P5.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/5RWAjCYhu3D8Ai2QBYP7GjaxFb3.jpg",
+      "releaseInfo": "2007-2012",
+      "imdbRating": "7.5",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Les étudiants privilégiés des écoles privées de Constance Billard et de St Jude, dans l'Upper East Side, sont tous accros à Gossip Girl une mystérieuse blogueuse qui dévoile tous les derniers potins et rumeurs sur leur communauté très fermée.",
+      "logo": "https://image.tmdb.org/t/p/original/tQMkMv8g4lZoDPCVN6FHoZX3PWM.png",
+      "runtime": "39min"
+    },
+    {
+      "id": "tt3006802",
+      "type": "series",
+      "name": "Outlander",
+      "poster": "https://image.tmdb.org/t/p/w500/yq2O5h2fIEVurWEmnOvlPXoFRcX.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+      "releaseInfo": "2014-2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "Drame",
+        "Science-Fiction & Fantastique"
+      ],
+      "description": "Les aventures de Claire, une infirmière de guerre mariée qui se retrouve accidentellement propulsée en pleine campagne écossaise de 1743. Elle se retrouve alors mêlée à des histoires de propriétés et d'espionnage qui la poussent à prendre la fuite et...",
+      "logo": "https://image.tmdb.org/t/p/original/i6w0pZFUVxuzqaspLIotqvgrldk.png",
+      "runtime": "1h12min"
+    },
+    {
+      "id": "tt4786824",
+      "type": "series",
+      "name": "The Crown",
+      "poster": "https://image.tmdb.org/t/p/w500/snrhOM9JOY3i7UGNDZBfBakiq4n.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+      "releaseInfo": "2016-2023",
+      "imdbRating": "8.6",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Cette série dramatique retrace les rivalités politiques, intrigues et événements qui ont marqué le règne de la reine Élisabeth II et la seconde moitié du XXe siècle.",
+      "logo": "https://assets.fanart.tv/fanart/the-crown-5819b8cde1034.png",
+      "runtime": "1h13min"
+    },
+    {
+      "id": "tt10813940",
+      "type": "series",
+      "name": "Ginny & Georgia",
+      "poster": "https://image.tmdb.org/t/p/w500/vOwunzW4dx3n0J5mH40n9jTRSwY.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/lPmUu3xkoksz3xsa1feIUoOBZrg.jpg",
+      "releaseInfo": "2021-",
+      "imdbRating": "7.5",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "description": "Georgia, une mère anticonformiste, s'installe dans le nord avec ses enfants Ginny et Austin pour prendre un nouveau départ. Mais leur parcours ne sera pas sans embûches.",
+      "logo": "https://image.tmdb.org/t/p/original/9LZ7aF0Onyi4Un0BLV6BFFoVPzj.png",
+      "runtime": "1h8min"
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "releaseInfo": "1994-2004",
+      "imdbRating": "8.8",
+      "genres": [
+        "Comédie"
+      ],
+      "description": "Les péripéties de 6 jeunes newyorkais liés par une profonde amitié. Entre amour, travail, famille, ils partagent leurs bonheurs et leurs soucis au Central Perk, leur café favori...",
+      "logo": "https://assets.fanart.tv/fanart/friends-504699065606d.png",
+      "runtime": "48min"
+    },
+    {
+      "id": "tt0159206",
+      "type": "series",
+      "name": "Sex and the City",
+      "poster": "https://image.tmdb.org/t/p/w500/jRkfQMfHXxKE6Pn2ou4sdF7g9W0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",
+      "releaseInfo": "1998-2004",
+      "imdbRating": "7.4",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "description": "Célibataire new-yorkaise, Carrie s'inspire de sa propre expérience, et de celle de ses amies, pour écrire des articles sur des thèmes touchant le sexe et les relations amoureuses.",
+      "logo": "https://image.tmdb.org/t/p/original/4UF6D7EvtxLGvc8OOZyIIYDCDug.png",
+      "runtime": "43min"
+    },
+    {
+      "id": "tt1606375",
+      "type": "series",
+      "name": "Downton Abbey",
+      "poster": "https://image.tmdb.org/t/p/w500/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg",
+      "releaseInfo": "2010-2015",
+      "imdbRating": "8.7",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Les héritiers de Downton Abbey ayant péri lors du naufrage du Titanic, la famille Crawley se retrouve dans une situation délicate : le domaine est soumis à l’entail, c'est-à-dire qu'il doit intégralement passer à un héritier mâle, le titre de Lord...",
+      "logo": "https://image.tmdb.org/t/p/original/nsrJ38W1kgYSeRaFqNbmqf8ZiXw.png",
+      "runtime": "1h6min"
+    },
+    {
+      "id": "tt1442437",
+      "type": "series",
+      "name": "Modern Family",
+      "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "releaseInfo": "2009-2020",
+      "imdbRating": "8.5",
+      "genres": [
+        "Comédie"
+      ],
+      "description": "Quand les familles Pritchett, Delgado et Dunphy acceptent qu'un documentaire soit tourné sur leurs vies, elles étaient loin d'imaginer qu'elles allaient tant en révéler… Jay Pritchett a rencontré la très sexy Colombienne Gloria Delgado le jour où sa femme...",
+      "logo": "https://assets.fanart.tv/fanart/modern-family-504c210cc58b2.png",
+      "runtime": "22min"
+    },
+    {
+      "id": "tt0238784",
+      "type": "series",
+      "name": "Gilmore Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+      "releaseInfo": "2000-",
+      "imdbRating": "8.2",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "description": "La série raconte la relation complice et même privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16 ans. Entre leurs histoires d'amour respectives et les relations avec les grands-parents de Rory ou les personnages secondaires rencontrés au travail de...",
+      "logo": "https://assets.fanart.tv/fanart/gilmore-girls-562233abcfcc1.png",
+      "runtime": "44min"
+    },
+    {
+      "id": "tt7335184",
+      "type": "series",
+      "name": "You",
+      "poster": "https://image.tmdb.org/t/p/w500/doavJnd27DZv6wxruPUC38Od9NC.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/wY1US9I51xxkwDJXQp6ktmhfh2Z.jpg",
+      "releaseInfo": "2018-2025",
+      "imdbRating": "7.6",
+      "genres": [
+        "Mystère",
+        "Crime",
+        "Drame"
+      ],
+      "description": "Un jeune homme charmant mais obsessionnel tente par tous les moyens de s'immiscer dans la vie des femmes qui le fascinent.",
+      "logo": "https://image.tmdb.org/t/p/original/6PVizUSzoRFGghV8hDfyRkpe5SH.png",
+      "runtime": "54min"
+    },
+    {
+      "id": "tt0460649",
+      "type": "series",
+      "name": "How I Met Your Mother",
+      "poster": "https://image.tmdb.org/t/p/w500/zat4C4cnFYFhFLW922VmcxobD9C.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+      "releaseInfo": "2005-2014",
+      "imdbRating": "8.3",
+      "genres": [
+        "Comédie"
+      ],
+      "description": "Ted se remémore ses jeunes années, lorsqu'il était encore célibataire. Il raconte à ses enfants avec nostalgie ses moments d'égarements et de troubles, ses rencontres et ses recherches effrénées du Grand Amour et les facéties de sa bande d'amis...",
+      "logo": "https://image.tmdb.org/t/p/original/6QIAqekDvonjBi7sK6x0jwwdkYK.png",
+      "runtime": "22min"
+    }
+  ]
+}

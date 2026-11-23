@@ -245,6 +245,74 @@
       ],
       "description": "Après avoir rompu avec Mark Darcy, Bridget se retrouve de nouveau célibataire, 40 ans passés, plus concentrée sur sa carrière et ses amis que sur sa vie amoureuse. Pour une fois, tout est sous contrôle ! Jusqu’à ce que Bridget fasse la rencontre de Jack…...",
       "runtime": "2h3min"
+    },
+    {
+      "id": "tt0114924",
+      "type": "movie",
+      "name": "L'Amour à tout prix",
+      "poster": "https://image.tmdb.org/t/p/w500/eoEjT2CSDNKOabryeLfuXcdgqij.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/t6tQKntPdMLieFjgt2nxYb5tUVO.jpg",
+      "releaseInfo": "1995",
+      "imdbRating": "6.8",
+      "genres": [
+        "Romance",
+        "Comédie"
+      ],
+      "description": "Lucy se sent seule et ne sait comment aborder l'élégant avocat Peter Callaghan, qu'elle voit passer chaque jour devant son guichet de métro. Mais l'occasion lui est donnée de lui sauver la vie. À la suite d'un quiproquo, la voilà adoptée par la famille de...",
+      "logo": "https://image.tmdb.org/t/p/original/1o9rXuXJCuYW2VuY1RT3Io2UFqn.png",
+      "runtime": "1h43min"
+    },
+    {
+      "id": "tt3104988",
+      "type": "movie",
+      "name": "Crazy Rich Asians",
+      "poster": "https://image.tmdb.org/t/p/w500/lurrhhU2q7XXIcJhJibwjfDPuqT.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+      "releaseInfo": "2018",
+      "imdbRating": "6.9",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "description": "Née à New York, Rachel Chu n'est jamais allée en Asie. En accompagnant son fiancé Nick Young au mariage de son meilleur ami à Singapour, Rachel est donc enchantée de découvrir le continent de ses ancêtres…même si elle redoute un peu de rencontrer la...",
+      "logo": "https://image.tmdb.org/t/p/original/gmRI5jNtkRkwy6cso4oTe5Cnv08.png",
+      "runtime": "2h1min"
+    },
+    {
+      "id": "tt2582846",
+      "type": "movie",
+      "name": "Nos étoiles contraires",
+      "poster": "https://image.tmdb.org/t/p/w500/cceVH3D1BsKJyHLKvKgc0Wa2m0.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+      "releaseInfo": "2014",
+      "imdbRating": "7.6",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "description": "Depuis son enfance, Hazel a des problèmes respiratoires, l'obligeant à porter un tube à oxygène en permanence. Sur les conseils de sa mère, elle participe à un groupe de soutien, où elle fait la connaissance d'Augustus, qui a perdu une jambe à cause d'un...",
+      "logo": "https://image.tmdb.org/t/p/original/kGw5AUi1cD9PI9zRVTDR9jfKPfo.png",
+      "runtime": "2h5min"
+    },
+    {
+      "id": "tt0414387",
+      "type": "movie",
+      "name": "Orgueil et Préjugés",
+      "poster": "https://image.tmdb.org/t/p/w500/dn2tyLAx5syITEQ9989iQ79eMNW.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+      "releaseInfo": "2005",
+      "imdbRating": "7.8",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "description": "Elizabeth Bennet, 20 ans, est la seconde fille de Mr et Mrs Bennet. Elle grandit aux cotés de ses quatre autres sœurs et affectionne particulièrement Jane, de deux ans son aînée. Cette dernière est réputée pour sa douceur et sa beauté dans toute la ville...",
+      "logo": "https://image.tmdb.org/t/p/original/fr2p2xdeFsNVTlKpsV0Mk2wGVZp.png",
+      "runtime": "2h7min"
     }
   ]
 }

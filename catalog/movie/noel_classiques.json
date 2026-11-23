@@ -211,6 +211,94 @@
       ],
       "description": "Rand Peltzer offre à son fils Billy un étrange animal : un mogwai. Son ancien propriétaire l'a bien mis en garde : il ne faut pas l'exposer à la lumière , lui éviter tout contact avec l'eau , et surtout, surtout, ne jamais le nourrir après minuit… Sinon…",
       "runtime": "1h45min"
+    },
+    {
+      "id": "tt0038650",
+      "type": "movie",
+      "name": "La vie est belle",
+      "poster": "https://image.tmdb.org/t/p/w500/niniH26VfSTF7fefLWwipvNFGbL.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+      "releaseInfo": "1946",
+      "imdbRating": "8.6",
+      "genres": [
+        "Drame",
+        "Familial",
+        "Fantastique"
+      ],
+      "description": "Bedford Falls, petite ville de l'État de New York, la veille de Noël. De chaque foyer s'élève une prière. Les paroles murmurées avec ferveur concernent toutes le même homme – George Bailey –, qu'elles proviennent de la bouche de son épouse, de ses enfants,...",
+      "logo": "https://image.tmdb.org/t/p/original/xR8MiuthY6Sun67J0V5vsqwAo0H.png",
+      "runtime": "2h16min"
+    },
+    {
+      "id": "tt21328106",
+      "type": "movie",
+      "name": "Noël à Candy Cane Lane",
+      "poster": "https://image.tmdb.org/t/p/w500/8qfOQ7YPtvN2ATM50iUk58hZsNf.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+      "releaseInfo": "2023",
+      "imdbRating": "5.6",
+      "genres": [
+        "Comédie",
+        "Fantastique",
+        "Familial"
+      ],
+      "description": "L'histoire d'un homme déterminé à gagner le concours annuel de décoration de Noël de son quartier et qui, sans le savoir, signe un pacte avec un elfe malfaisant qui donne vie aux créatures des 12 jours de Noël.",
+      "logo": "https://image.tmdb.org/t/p/original/5FfWAcQelUU2WLFg4taXK4gjHgk.png",
+      "runtime": "1h57min"
+    },
+    {
+      "id": "tt0424205",
+      "type": "movie",
+      "name": "Joyeux Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/ixfvkeYY3459qiWODyCsO04qLRV.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/5ChBhGXIX7RgOMSjIlXgBp6UjMf.jpg",
+      "releaseInfo": "2005",
+      "imdbRating": "7.6",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Romance"
+      ],
+      "description": "Lorsque la guerre surgit au creux de l'été 1914, elle surprend et emporte dans son tourbillon des millions d'hommes. Nikolaus Sprink, prodigieux ténor à l'opéra de Berlin, va devoir renoncer à sa belle carrière et surtout à celle qu'il aime : Anna...",
+      "logo": "https://image.tmdb.org/t/p/original/aK9lTZ2Pn5rigxY8BP8LX44xeOj.png",
+      "runtime": "1h56min"
+    },
+    {
+      "id": "tt0095016",
+      "type": "movie",
+      "name": "Piège de cristal",
+      "poster": "https://image.tmdb.org/t/p/w500/1nOVVjbf8ucbeLmIlK5D2kCQQST.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "releaseInfo": "1988",
+      "imdbRating": "8.2",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "John McClane, un policier de New York, tente de sauver sa femme Holly Gennaro et un groupe d'autres personnes prises en otage par le terroriste allemand Hans Gruber lors d'une fête de Noël au Nakatomi Plaza de Los Angeles.",
+      "logo": "https://image.tmdb.org/t/p/original/taW4Bu1ndiqSdwRyDiN4wBaPQcZ.png",
+      "runtime": "2h12min"
+    },
+    {
+      "id": "tt0433400",
+      "type": "movie",
+      "name": "Just Friends",
+      "poster": "https://image.tmdb.org/t/p/w500/xuqHqUCVXXfXkiq5xbz2mlWC06E.jpg",
+      "posterShape": "poster",
+      "background": "https://image.tmdb.org/t/p/original/2X9fquknxs3JCTNWDoCLH0hUB3T.jpg",
+      "releaseInfo": "2005",
+      "imdbRating": "6.2",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "description": "Adolescent, Rick assume mal son physique et se retrouve souvent victime des moqueries de camarades malintentionnés. Pour couronner le tout, Jamie, la plus jolie fille du lycée, ne voit dans leur relation qu'une franche camaraderie. Un jour c'en est trop :...",
+      "logo": "https://image.tmdb.org/t/p/original/8qQAtWHrEVBR9A3KLDEN1Gn9JfM.png",
+      "runtime": "1h34min"
     }
   ]
 }

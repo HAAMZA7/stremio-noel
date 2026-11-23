@@ -1,6 +1,6 @@
 {
   "id": "com.hamza.stremio.noel.fr",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "name": "🎬 CinéFR Portail (FR)",
   "description": "Portail auto-actualisé 100 % français HD : Noël, Stephen King, Sorties Ciné 4K VF, Top Netflix FR, Apple TV+ FR, Disney+ FR, Max & Prime FR, Films Cultes.",
   "logo": "https://em-content.zobj.net/source/apple/391/clapper-board_1f3ac.png",
@@ -34,6 +34,11 @@
       "type": "movie",
       "id": "stephen_king_fr",
       "name": "🎈 Spécial Stephen King"
+    },
+    {
+      "type": "series",
+      "id": "series_feelgood_fr",
+      "name": "💖 Séries Feel-Good & Romances"
     },
     {
       "type": "movie",

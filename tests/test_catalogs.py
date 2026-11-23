@@ -14,6 +14,7 @@ EXPECTED_CATALOG_IDS = [
     ("movie", "noel_classiques"),
     ("movie", "noel_magie"),
     ("movie", "stephen_king_fr"),
+    ("series", "series_feelgood_fr"),
     ("movie", "nouveautes_fr"),
     ("series", "top_netflix_fr"),
     ("series", "top_appletv_fr"),
@@ -26,13 +27,13 @@ EXPECTED_CATALOG_IDS = [
 def test_manifest_v4_structure():
     assert MANIFEST_PATH.exists(), "manifest.json doit exister"
     data = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
-    assert data["version"] == "4.0.0"
+    assert data["version"].startswith("4.")
     assert data["name"] == "🎬 CinéFR Portail (FR)"
     assert data["resources"] == ["catalog"]
     assert data["types"] == ["movie", "series"]
 
     catalogs = data.get("catalogs", [])
-    assert len(catalogs) == 10
+    assert len(catalogs) == 11
     actual_pairs = [(c["type"], c["id"]) for c in catalogs]
     assert actual_pairs == EXPECTED_CATALOG_IDS
 

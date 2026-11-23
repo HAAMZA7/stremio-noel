@@ -253,6 +253,74 @@
           ],
           "description": "Après avoir rompu avec Mark Darcy, Bridget se retrouve de nouveau célibataire, 40 ans passés, plus concentrée sur sa carrière et ses amis que sur sa vie amoureuse. Pour une fois, tout est sous contrôle ! Jusqu’à ce que Bridget fasse la rencontre de Jack…...",
           "runtime": "2h3min"
+        },
+        {
+          "id": "tt0114924",
+          "type": "movie",
+          "name": "L'Amour à tout prix",
+          "poster": "https://image.tmdb.org/t/p/w500/eoEjT2CSDNKOabryeLfuXcdgqij.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/t6tQKntPdMLieFjgt2nxYb5tUVO.jpg",
+          "releaseInfo": "1995",
+          "imdbRating": "6.8",
+          "genres": [
+            "Romance",
+            "Comédie"
+          ],
+          "description": "Lucy se sent seule et ne sait comment aborder l'élégant avocat Peter Callaghan, qu'elle voit passer chaque jour devant son guichet de métro. Mais l'occasion lui est donnée de lui sauver la vie. À la suite d'un quiproquo, la voilà adoptée par la famille de...",
+          "logo": "https://image.tmdb.org/t/p/original/1o9rXuXJCuYW2VuY1RT3Io2UFqn.png",
+          "runtime": "1h43min"
+        },
+        {
+          "id": "tt3104988",
+          "type": "movie",
+          "name": "Crazy Rich Asians",
+          "poster": "https://image.tmdb.org/t/p/w500/lurrhhU2q7XXIcJhJibwjfDPuqT.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+          "releaseInfo": "2018",
+          "imdbRating": "6.9",
+          "genres": [
+            "Comédie",
+            "Romance"
+          ],
+          "description": "Née à New York, Rachel Chu n'est jamais allée en Asie. En accompagnant son fiancé Nick Young au mariage de son meilleur ami à Singapour, Rachel est donc enchantée de découvrir le continent de ses ancêtres…même si elle redoute un peu de rencontrer la...",
+          "logo": "https://image.tmdb.org/t/p/original/gmRI5jNtkRkwy6cso4oTe5Cnv08.png",
+          "runtime": "2h1min"
+        },
+        {
+          "id": "tt2582846",
+          "type": "movie",
+          "name": "Nos étoiles contraires",
+          "poster": "https://image.tmdb.org/t/p/w500/cceVH3D1BsKJyHLKvKgc0Wa2m0.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+          "releaseInfo": "2014",
+          "imdbRating": "7.6",
+          "genres": [
+            "Romance",
+            "Drame"
+          ],
+          "description": "Depuis son enfance, Hazel a des problèmes respiratoires, l'obligeant à porter un tube à oxygène en permanence. Sur les conseils de sa mère, elle participe à un groupe de soutien, où elle fait la connaissance d'Augustus, qui a perdu une jambe à cause d'un...",
+          "logo": "https://image.tmdb.org/t/p/original/kGw5AUi1cD9PI9zRVTDR9jfKPfo.png",
+          "runtime": "2h5min"
+        },
+        {
+          "id": "tt0414387",
+          "type": "movie",
+          "name": "Orgueil et Préjugés",
+          "poster": "https://image.tmdb.org/t/p/w500/dn2tyLAx5syITEQ9989iQ79eMNW.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/1Onam6oWyFAUCcoxtdWkACtEiNr.jpg",
+          "releaseInfo": "2005",
+          "imdbRating": "7.8",
+          "genres": [
+            "Drame",
+            "Romance"
+          ],
+          "description": "Elizabeth Bennet, 20 ans, est la seconde fille de Mr et Mrs Bennet. Elle grandit aux cotés de ses quatre autres sœurs et affectionne particulièrement Jane, de deux ans son aînée. Cette dernière est réputée pour sa douceur et sa beauté dans toute la ville...",
+          "logo": "https://image.tmdb.org/t/p/original/fr2p2xdeFsNVTlKpsV0Mk2wGVZp.png",
+          "runtime": "2h7min"
         }
       ]
     },
@@ -473,6 +541,94 @@
           ],
           "description": "Rand Peltzer offre à son fils Billy un étrange animal : un mogwai. Son ancien propriétaire l'a bien mis en garde : il ne faut pas l'exposer à la lumière , lui éviter tout contact avec l'eau , et surtout, surtout, ne jamais le nourrir après minuit… Sinon…",
           "runtime": "1h45min"
+        },
+        {
+          "id": "tt0038650",
+          "type": "movie",
+          "name": "La vie est belle",
+          "poster": "https://image.tmdb.org/t/p/w500/niniH26VfSTF7fefLWwipvNFGbL.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+          "releaseInfo": "1946",
+          "imdbRating": "8.6",
+          "genres": [
+            "Drame",
+            "Familial",
+            "Fantastique"
+          ],
+          "description": "Bedford Falls, petite ville de l'État de New York, la veille de Noël. De chaque foyer s'élève une prière. Les paroles murmurées avec ferveur concernent toutes le même homme – George Bailey –, qu'elles proviennent de la bouche de son épouse, de ses enfants,...",
+          "logo": "https://image.tmdb.org/t/p/original/xR8MiuthY6Sun67J0V5vsqwAo0H.png",
+          "runtime": "2h16min"
+        },
+        {
+          "id": "tt21328106",
+          "type": "movie",
+          "name": "Noël à Candy Cane Lane",
+          "poster": "https://image.tmdb.org/t/p/w500/8qfOQ7YPtvN2ATM50iUk58hZsNf.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+          "releaseInfo": "2023",
+          "imdbRating": "5.6",
+          "genres": [
+            "Comédie",
+            "Fantastique",
+            "Familial"
+          ],
+          "description": "L'histoire d'un homme déterminé à gagner le concours annuel de décoration de Noël de son quartier et qui, sans le savoir, signe un pacte avec un elfe malfaisant qui donne vie aux créatures des 12 jours de Noël.",
+          "logo": "https://image.tmdb.org/t/p/original/5FfWAcQelUU2WLFg4taXK4gjHgk.png",
+          "runtime": "1h57min"
+        },
+        {
+          "id": "tt0424205",
+          "type": "movie",
+          "name": "Joyeux Noël",
+          "poster": "https://image.tmdb.org/t/p/w500/ixfvkeYY3459qiWODyCsO04qLRV.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/5ChBhGXIX7RgOMSjIlXgBp6UjMf.jpg",
+          "releaseInfo": "2005",
+          "imdbRating": "7.6",
+          "genres": [
+            "Drame",
+            "Guerre",
+            "Romance"
+          ],
+          "description": "Lorsque la guerre surgit au creux de l'été 1914, elle surprend et emporte dans son tourbillon des millions d'hommes. Nikolaus Sprink, prodigieux ténor à l'opéra de Berlin, va devoir renoncer à sa belle carrière et surtout à celle qu'il aime : Anna...",
+          "logo": "https://image.tmdb.org/t/p/original/aK9lTZ2Pn5rigxY8BP8LX44xeOj.png",
+          "runtime": "1h56min"
+        },
+        {
+          "id": "tt0095016",
+          "type": "movie",
+          "name": "Piège de cristal",
+          "poster": "https://image.tmdb.org/t/p/w500/1nOVVjbf8ucbeLmIlK5D2kCQQST.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+          "releaseInfo": "1988",
+          "imdbRating": "8.2",
+          "genres": [
+            "Action",
+            "Thriller"
+          ],
+          "description": "John McClane, un policier de New York, tente de sauver sa femme Holly Gennaro et un groupe d'autres personnes prises en otage par le terroriste allemand Hans Gruber lors d'une fête de Noël au Nakatomi Plaza de Los Angeles.",
+          "logo": "https://image.tmdb.org/t/p/original/taW4Bu1ndiqSdwRyDiN4wBaPQcZ.png",
+          "runtime": "2h12min"
+        },
+        {
+          "id": "tt0433400",
+          "type": "movie",
+          "name": "Just Friends",
+          "poster": "https://image.tmdb.org/t/p/w500/xuqHqUCVXXfXkiq5xbz2mlWC06E.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/2X9fquknxs3JCTNWDoCLH0hUB3T.jpg",
+          "releaseInfo": "2005",
+          "imdbRating": "6.2",
+          "genres": [
+            "Comédie",
+            "Romance"
+          ],
+          "description": "Adolescent, Rick assume mal son physique et se retrouve souvent victime des moqueries de camarades malintentionnés. Pour couronner le tout, Jamie, la plus jolie fille du lycée, ne voit dans leur relation qu'une franche camaraderie. Un jour c'en est trop :...",
+          "logo": "https://image.tmdb.org/t/p/original/8qQAtWHrEVBR9A3KLDEN1Gn9JfM.png",
+          "runtime": "1h34min"
         }
       ]
     },
@@ -696,6 +852,202 @@
           ],
           "description": "Edward n’est pas un garçon ordinaire. Création d’un inventeur, il a reçu un cœur pour aimer, un cerveau pour comprendre. Mais son concepteur est mort avant d’avoir pu terminer son œuvre et Edward se retrouve avec des lames de métal et des instruments...",
           "runtime": "1h45min"
+        },
+        {
+          "id": "tt1430607",
+          "type": "movie",
+          "name": "Mission : Noël - Les Aventures de la famille Noël",
+          "poster": "https://image.tmdb.org/t/p/w500/kqed1i8MjX8zyXOnQLHatShGhVc.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+          "releaseInfo": "2011",
+          "imdbRating": "7.1",
+          "genres": [
+            "Drame",
+            "Animation",
+            "Familial"
+          ],
+          "description": "Ce film répond enfin à la question que se posent tous les enfants. Comment le Père Noël peut-il distribuer les cadeaux dans le monde entier et ce en une seule nuit ? Tout simplement grâce à un centre installé au Pôle Nord qui possède le top de la...",
+          "logo": "https://image.tmdb.org/t/p/original/2IN87G5IyGgUg1XzBFZRh2lHMrL.png",
+          "runtime": "1h38min"
+        },
+        {
+          "id": "tt0295297",
+          "type": "movie",
+          "name": "Harry Potter et la Chambre des secrets",
+          "poster": "https://image.tmdb.org/t/p/w500/8KpHRokGpiaqEGpjYe0rpywtvUx.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg",
+          "releaseInfo": "2002",
+          "imdbRating": "7.5",
+          "genres": [
+            "Aventure",
+            "Fantastique"
+          ],
+          "description": "Après de très mauvaises vacances passées chez ses odieux oncle et tante et son affreux cousin, Harry rejoint, non sans mal, l'École des Sorciers où, avec ses amis Ron et Hermione et l'aide ponctuelle de nouveaux venus, il parvient à élucider le mystère de...",
+          "logo": "https://image.tmdb.org/t/p/original/mtC645tcdSq4cOhdlmwKuR2G3oq.png",
+          "runtime": "2h41min"
+        },
+        {
+          "id": "tt0304141",
+          "type": "movie",
+          "name": "Harry Potter et le Prisonnier d'Azkaban",
+          "poster": "https://image.tmdb.org/t/p/w500/t4P2079IyK19njHDP2GwQrKdvzd.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+          "releaseInfo": "2004",
+          "imdbRating": "7.9",
+          "genres": [
+            "Aventure",
+            "Fantastique"
+          ],
+          "description": "Sirius Black, un dangereux sorcier criminel, s’échappe de la sombre prison d’Azkaban avec un seul et unique but : retrouver Harry Potter, en troisième année à l’école de Poudlard. Selon la légende, Black aurait jadis livré les parents du jeune sorcier à...",
+          "logo": "https://image.tmdb.org/t/p/original/1ARqQGBqojxawoh4P772wdlNsq7.png",
+          "runtime": "2h22min"
+        },
+        {
+          "id": "tt0367594",
+          "type": "movie",
+          "name": "Charlie et la Chocolaterie",
+          "poster": "https://image.tmdb.org/t/p/w500/tR4PU2wRPzGKmF665lE5wULGb3X.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+          "releaseInfo": "2005",
+          "imdbRating": "6.7",
+          "genres": [
+            "Aventure",
+            "Comédie",
+            "Familial"
+          ],
+          "description": "Charlie est un enfant issu d'une famille pauvre. Travaillant pour subvenir aux besoins des siens, il doit économiser chaque penny, et ne peut s'offrir les friandises dont raffolent les enfants de son âge. Pour obtenir son comptant de sucreries, il...",
+          "logo": "https://image.tmdb.org/t/p/original/1fl09FBvlVvJSqNedE2TlgeTvHh.png",
+          "runtime": "1h55min"
+        },
+        {
+          "id": "tt6166392",
+          "type": "movie",
+          "name": "Wonka",
+          "poster": "https://image.tmdb.org/t/p/w500/aKK2C3SErXIhNdT9gI93as2b8GV.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+          "releaseInfo": "2023",
+          "imdbRating": "6.9",
+          "genres": [
+            "Comédie",
+            "Familial",
+            "Fantastique"
+          ],
+          "description": "Inspiré du personnage principal hors du commun de Charlie et la Chocolaterie, le best-seller de Roald Dahl qui est aujourd'hui l'un des livres pour enfants les plus vendus de tous les temps, « Wonka » est une histoire merveilleuse retraçant la jeunesse de...",
+          "logo": "https://image.tmdb.org/t/p/original/2Oj6hveIEuWEQRZ3GiDhl1vXAWz.png",
+          "runtime": "1h57min"
+        },
+        {
+          "id": "tt1109624",
+          "type": "movie",
+          "name": "Paddington",
+          "poster": "https://image.tmdb.org/t/p/w500/mkW28gYGYdVzQJDUuYo5jww1cB8.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+          "releaseInfo": "2014",
+          "imdbRating": "7.3",
+          "genres": [
+            "Comédie",
+            "Aventure",
+            "Familial"
+          ],
+          "description": "Paddington raconte l'histoire d'un jeune ours péruvien fraîchement débarqué à Londres, à la recherche d'un foyer et d'une vie meilleure. Il réalise vite que la ville de ses rêves n'est pas aussi accueillante qu'il croyait. Par chance, il rencontre la...",
+          "logo": "https://assets.fanart.tv/fanart/paddington-54114dbfcbcb9.png",
+          "runtime": "1h35min"
+        },
+        {
+          "id": "tt4468740",
+          "type": "movie",
+          "name": "Paddington 2",
+          "poster": "https://image.tmdb.org/t/p/w500/ezRJ5yumJEK3l5EcyGfb0ZZJlzX.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
+          "releaseInfo": "2017",
+          "imdbRating": "7.8",
+          "genres": [
+            "Aventure",
+            "Comédie",
+            "Familial"
+          ],
+          "description": "Installé dans sa nouvelle famille à Londres, Paddington est devenu un membre populaire de la communauté locale. À la recherche du cadeau parfait pour le 100ème anniversaire de sa chère Tante Lucy, Paddington tombe sur un livre animé exceptionnel. Il se met...",
+          "logo": "https://assets.fanart.tv/fanart/paddington-2-59e1da7e9a0ac.png",
+          "runtime": "1h43min"
+        },
+        {
+          "id": "tt0398286",
+          "type": "movie",
+          "name": "Raiponce",
+          "poster": "https://image.tmdb.org/t/p/w500/xZhAFR0N2r5q7tJNWaBGzHUaeb5.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+          "releaseInfo": "2010",
+          "imdbRating": "7.7",
+          "genres": [
+            "Animation",
+            "Familial",
+            "Aventure"
+          ],
+          "description": "Quand le bandit le plus recherché du royaume, Flynn Rider, se cache dans une mystérieuse tour, il est pris en otage par Raiponce, une jolie adolescente avec des cheveux de 20 mètres. La curieuse ravisseuse de Flynn, qui cherche à s’échapper de la tour où...",
+          "logo": "https://image.tmdb.org/t/p/original/xETDaCINKea0sKNJo2YumkXc1D9.png",
+          "runtime": "1h41min"
+        },
+        {
+          "id": "tt2953050",
+          "type": "movie",
+          "name": "Encanto, la fantastique famille Madrigal",
+          "poster": "https://image.tmdb.org/t/p/w500/vkrAGbjK6TRMrAW5Gq0SmNPOAoc.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+          "releaseInfo": "2021",
+          "imdbRating": "7.2",
+          "genres": [
+            "Animation",
+            "Comédie",
+            "Familial"
+          ],
+          "description": "Dans un mystérieux endroit niché au cœur des montagnes de Colombie, la fantastique famille Madrigal habite une maison enchantée dans une cité pleine de vie, un endroit merveilleux appelé Encanto. L’Encanto a doté chacun des enfants de la famille d’une...",
+          "logo": "https://image.tmdb.org/t/p/original/julfkDJZTG80YZnaxOYd42OL5sk.png",
+          "runtime": "1h42min"
+        },
+        {
+          "id": "tt2380307",
+          "type": "movie",
+          "name": "Coco",
+          "poster": "https://image.tmdb.org/t/p/w500/sZqcEV3KhDITHlUBmyj1a3RRvT9.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+          "releaseInfo": "2017",
+          "imdbRating": "8.4",
+          "genres": [
+            "Familial",
+            "Animation",
+            "Musique"
+          ],
+          "description": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz. Bien décidé à prouver son talent,...",
+          "logo": "https://image.tmdb.org/t/p/original/cTaWqsn54w83nCpX8K3tuTRa3OG.png",
+          "runtime": "1h50min"
+        },
+        {
+          "id": "tt2096673",
+          "type": "movie",
+          "name": "Vice-versa",
+          "poster": "https://image.tmdb.org/t/p/w500/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+          "releaseInfo": "2015",
+          "imdbRating": "8.1",
+          "genres": [
+            "Animation",
+            "Familial",
+            "Aventure"
+          ],
+          "description": "Riley est déracinée du Mid-Ouest quand son père est muté à San Francisco. Comme tous, Riley est guidée par ses Émotions : Joie, Peur, Colère, Dégoût et Tristesse. Les Émotions vivent au Quartier Cérébral, où elles la conseillent au quotidien. Alors que...",
+          "logo": "https://image.tmdb.org/t/p/original/aklCYUQ9eX0utk6YLL7UzP1JiQw.png",
+          "runtime": "1h34min"
         }
       ]
     },
@@ -995,6 +1347,247 @@
             "Fantastique"
           ],
           "description": "Basé sur la nouvelle de Stephen King, qui raconte trois chapitres de la vie d'un homme ordinaire nommé Charles Krantz en commençant par sa mort d'une tumeur cérébrale à 39 ans et en terminant par son enfance dans une maison prétendument hantée."
+        }
+      ]
+    },
+    {
+      "id": "series_feelgood_fr",
+      "type": "series",
+      "name": "💖 Séries Feel-Good & Romances",
+      "mode": "curated",
+      "items": [
+        {
+          "id": "tt8740790",
+          "type": "series",
+          "name": "La Chronique des Bridgerton",
+          "poster": "https://image.tmdb.org/t/p/w500/hiEIKOkaP1PcWUeqjWeKr8eWF1Q.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+          "releaseInfo": "2020-",
+          "imdbRating": "7.5",
+          "genres": [
+            "Drame"
+          ],
+          "description": "Dans la haute société londonienne du XIXe siècle, durant la Régence anglaise, les membres de la puissante et influente famille Bridgerton cherchent l'amour et le mariage à travers les bals et les intrigues de la haute société.\n\nChaque saison suit les...",
+          "logo": "https://image.tmdb.org/t/p/original/4LJSDHom3ifYEAbGWixIewGc6Li.svg",
+          "runtime": "1h11min"
+        },
+        {
+          "id": "tt8962124",
+          "type": "series",
+          "name": "Emily in Paris",
+          "poster": "https://image.tmdb.org/t/p/w500/eFHfW94jhUwG93grXvugMT8ThF5.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+          "releaseInfo": "2020-",
+          "imdbRating": "6.8",
+          "genres": [
+            "Drame",
+            "Comédie"
+          ],
+          "description": "Nouvelles passions, nouvelles modes, nouvelle Emily ? Une Américaine génie du marketing s'épanouit en amour comme dans la vie après avoir décroché le job de ses rêves à Paris.",
+          "logo": "https://image.tmdb.org/t/p/original/7qheavuFpI6Fy1Zx8xusA4dpQNu.png",
+          "runtime": "36min"
+        },
+        {
+          "id": "tt0410975",
+          "type": "series",
+          "name": "Desperate Housewives",
+          "poster": "https://image.tmdb.org/t/p/w500/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/hW9NOFs8xUevb90KQYHhbifp9Po.jpg",
+          "releaseInfo": "2004-2012",
+          "imdbRating": "7.7",
+          "genres": [
+            "Mystère",
+            "Drame",
+            "Comédie"
+          ],
+          "description": "Derrière une façade tirée d'une carte postale vivent quatre femmes dont l'existence est tout sauf idéale. Susan est maladroite, divorcée et mère d'une adolescente nommée Julie. Lynette est mariée avec Tom et ont quatre enfants tapageurs qui la poussent à...",
+          "logo": "https://image.tmdb.org/t/p/original/mNbHF3OMMKxjzj2cIsJzgCaCJqr.svg",
+          "runtime": "42min"
+        },
+        {
+          "id": "tt0397442",
+          "type": "series",
+          "name": "Gossip Girl",
+          "poster": "https://image.tmdb.org/t/p/w500/7AJ1EW6ZytkcGzZ1Sdwy5m0w4P5.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/5RWAjCYhu3D8Ai2QBYP7GjaxFb3.jpg",
+          "releaseInfo": "2007-2012",
+          "imdbRating": "7.5",
+          "genres": [
+            "Drame"
+          ],
+          "description": "Les étudiants privilégiés des écoles privées de Constance Billard et de St Jude, dans l'Upper East Side, sont tous accros à Gossip Girl une mystérieuse blogueuse qui dévoile tous les derniers potins et rumeurs sur leur communauté très fermée.",
+          "logo": "https://image.tmdb.org/t/p/original/tQMkMv8g4lZoDPCVN6FHoZX3PWM.png",
+          "runtime": "39min"
+        },
+        {
+          "id": "tt3006802",
+          "type": "series",
+          "name": "Outlander",
+          "poster": "https://image.tmdb.org/t/p/w500/yq2O5h2fIEVurWEmnOvlPXoFRcX.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+          "releaseInfo": "2014-2026",
+          "imdbRating": "8.3",
+          "genres": [
+            "Drame",
+            "Science-Fiction & Fantastique"
+          ],
+          "description": "Les aventures de Claire, une infirmière de guerre mariée qui se retrouve accidentellement propulsée en pleine campagne écossaise de 1743. Elle se retrouve alors mêlée à des histoires de propriétés et d'espionnage qui la poussent à prendre la fuite et...",
+          "logo": "https://image.tmdb.org/t/p/original/i6w0pZFUVxuzqaspLIotqvgrldk.png",
+          "runtime": "1h12min"
+        },
+        {
+          "id": "tt4786824",
+          "type": "series",
+          "name": "The Crown",
+          "poster": "https://image.tmdb.org/t/p/w500/snrhOM9JOY3i7UGNDZBfBakiq4n.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+          "releaseInfo": "2016-2023",
+          "imdbRating": "8.6",
+          "genres": [
+            "Drame"
+          ],
+          "description": "Cette série dramatique retrace les rivalités politiques, intrigues et événements qui ont marqué le règne de la reine Élisabeth II et la seconde moitié du XXe siècle.",
+          "logo": "https://assets.fanart.tv/fanart/the-crown-5819b8cde1034.png",
+          "runtime": "1h13min"
+        },
+        {
+          "id": "tt10813940",
+          "type": "series",
+          "name": "Ginny & Georgia",
+          "poster": "https://image.tmdb.org/t/p/w500/vOwunzW4dx3n0J5mH40n9jTRSwY.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/lPmUu3xkoksz3xsa1feIUoOBZrg.jpg",
+          "releaseInfo": "2021-",
+          "imdbRating": "7.5",
+          "genres": [
+            "Comédie",
+            "Drame"
+          ],
+          "description": "Georgia, une mère anticonformiste, s'installe dans le nord avec ses enfants Ginny et Austin pour prendre un nouveau départ. Mais leur parcours ne sera pas sans embûches.",
+          "logo": "https://image.tmdb.org/t/p/original/9LZ7aF0Onyi4Un0BLV6BFFoVPzj.png",
+          "runtime": "1h8min"
+        },
+        {
+          "id": "tt0108778",
+          "type": "series",
+          "name": "Friends",
+          "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+          "releaseInfo": "1994-2004",
+          "imdbRating": "8.8",
+          "genres": [
+            "Comédie"
+          ],
+          "description": "Les péripéties de 6 jeunes newyorkais liés par une profonde amitié. Entre amour, travail, famille, ils partagent leurs bonheurs et leurs soucis au Central Perk, leur café favori...",
+          "logo": "https://assets.fanart.tv/fanart/friends-504699065606d.png",
+          "runtime": "48min"
+        },
+        {
+          "id": "tt0159206",
+          "type": "series",
+          "name": "Sex and the City",
+          "poster": "https://image.tmdb.org/t/p/w500/jRkfQMfHXxKE6Pn2ou4sdF7g9W0.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/jvHw1zF20kYA9gbF2VprXD6uJpq.jpg",
+          "releaseInfo": "1998-2004",
+          "imdbRating": "7.4",
+          "genres": [
+            "Drame",
+            "Comédie"
+          ],
+          "description": "Célibataire new-yorkaise, Carrie s'inspire de sa propre expérience, et de celle de ses amies, pour écrire des articles sur des thèmes touchant le sexe et les relations amoureuses.",
+          "logo": "https://image.tmdb.org/t/p/original/4UF6D7EvtxLGvc8OOZyIIYDCDug.png",
+          "runtime": "43min"
+        },
+        {
+          "id": "tt1606375",
+          "type": "series",
+          "name": "Downton Abbey",
+          "poster": "https://image.tmdb.org/t/p/w500/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg",
+          "releaseInfo": "2010-2015",
+          "imdbRating": "8.7",
+          "genres": [
+            "Drame"
+          ],
+          "description": "Les héritiers de Downton Abbey ayant péri lors du naufrage du Titanic, la famille Crawley se retrouve dans une situation délicate : le domaine est soumis à l’entail, c'est-à-dire qu'il doit intégralement passer à un héritier mâle, le titre de Lord...",
+          "logo": "https://image.tmdb.org/t/p/original/nsrJ38W1kgYSeRaFqNbmqf8ZiXw.png",
+          "runtime": "1h6min"
+        },
+        {
+          "id": "tt1442437",
+          "type": "series",
+          "name": "Modern Family",
+          "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+          "releaseInfo": "2009-2020",
+          "imdbRating": "8.5",
+          "genres": [
+            "Comédie"
+          ],
+          "description": "Quand les familles Pritchett, Delgado et Dunphy acceptent qu'un documentaire soit tourné sur leurs vies, elles étaient loin d'imaginer qu'elles allaient tant en révéler… Jay Pritchett a rencontré la très sexy Colombienne Gloria Delgado le jour où sa femme...",
+          "logo": "https://assets.fanart.tv/fanart/modern-family-504c210cc58b2.png",
+          "runtime": "22min"
+        },
+        {
+          "id": "tt0238784",
+          "type": "series",
+          "name": "Gilmore Girls",
+          "poster": "https://image.tmdb.org/t/p/w500/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+          "releaseInfo": "2000-",
+          "imdbRating": "8.2",
+          "genres": [
+            "Comédie",
+            "Drame"
+          ],
+          "description": "La série raconte la relation complice et même privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16 ans. Entre leurs histoires d'amour respectives et les relations avec les grands-parents de Rory ou les personnages secondaires rencontrés au travail de...",
+          "logo": "https://assets.fanart.tv/fanart/gilmore-girls-562233abcfcc1.png",
+          "runtime": "44min"
+        },
+        {
+          "id": "tt7335184",
+          "type": "series",
+          "name": "You",
+          "poster": "https://image.tmdb.org/t/p/w500/doavJnd27DZv6wxruPUC38Od9NC.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/wY1US9I51xxkwDJXQp6ktmhfh2Z.jpg",
+          "releaseInfo": "2018-2025",
+          "imdbRating": "7.6",
+          "genres": [
+            "Mystère",
+            "Crime",
+            "Drame"
+          ],
+          "description": "Un jeune homme charmant mais obsessionnel tente par tous les moyens de s'immiscer dans la vie des femmes qui le fascinent.",
+          "logo": "https://image.tmdb.org/t/p/original/6PVizUSzoRFGghV8hDfyRkpe5SH.png",
+          "runtime": "54min"
+        },
+        {
+          "id": "tt0460649",
+          "type": "series",
+          "name": "How I Met Your Mother",
+          "poster": "https://image.tmdb.org/t/p/w500/zat4C4cnFYFhFLW922VmcxobD9C.jpg",
+          "posterShape": "poster",
+          "background": "https://image.tmdb.org/t/p/original/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+          "releaseInfo": "2005-2014",
+          "imdbRating": "8.3",
+          "genres": [
+            "Comédie"
+          ],
+          "description": "Ted se remémore ses jeunes années, lorsqu'il était encore célibataire. Il raconte à ses enfants avec nostalgie ses moments d'égarements et de troubles, ses rencontres et ses recherches effrénées du Grand Amour et les facéties de sa bande d'amis...",
+          "logo": "https://image.tmdb.org/t/p/original/6QIAqekDvonjBi7sK6x0jwwdkYK.png",
+          "runtime": "22min"
         }
       ]
     },
