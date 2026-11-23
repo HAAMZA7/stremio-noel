@@ -1,0 +1,176 @@
+{
+  "metas": [
+    {
+      "id": "tt3581920",
+      "type": "series",
+      "name": "The Last of Us",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/4pMd9VAdqm96KA2W4X8yetgc7EF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/so29Oc9JkaEEia5leGRofAy78Dm.png",
+      "releaseInfo": "2023-",
+      "imdbRating": "8.4",
+      "runtime": "50min",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Vingt ans après la destruction de la civilisation moderne, Joel, un survivant endurci, est engagé pour faire sortir Ellie, une jeune fille de 14 ans, d'une zone de quarantaine oppressante. Ce qui n'est au départ qu'un petit travail se transforme rapidement..."
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "releaseInfo": "2022-",
+      "imdbRating": "8.2",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Drame",
+        "Action & Adventure"
+      ],
+      "description": "Près de 200 ans avant les évènements de Game of Thrones, le continent de Westeros est en proie à de nombreux dangers. Une guerre civile se prépare dans différents endroits du royaume : cette guerre sera appelée la Danse des Dragons. De son côté, la maison Targaryen se disloque peu à peu et le règne des dragons est menacé.",
+      "logo": "https://assets.fanart.tv/fanart/house-of-the-dragon--6249da9eaac45.png",
+      "runtime": "1h11min"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+      "releaseInfo": "2019-2026",
+      "imdbRating": "8.5",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Action & Adventure"
+      ],
+      "description": "Lorsque les super-héros abusent de leurs super-pouvoirs au lieu de les utiliser pour faire le bien, les Boys se lancent dans une quête héroïque pour révéler la vérité sur Les Sept et Vought, le conglomérat qui couvre leurs sales secrets.",
+      "logo": "https://image.tmdb.org/t/p/original/fbEZM7oXgdqkQR2CroTE0OMXmNk.png",
+      "runtime": "1h7min"
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/eyG7Rb6r4oIYQR07qUVq0gJ2gDj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+      "releaseInfo": "2024-",
+      "imdbRating": "8.3",
+      "genres": [
+        "Action & Adventure",
+        "Science-Fiction & Fantastique",
+        "Drame"
+      ],
+      "description": "Une terrible catastrophe nucléaire contraint les survivants \"privilégiés\" à se réfugier dans des Vaults, des bunkers anti-atomiques construits pour préserver l'humanité en cas d'apocalypse. 200 ans plus tard, une jeune femme quitte l'Abri 33 et s'aventure à la surface, à la recherche de son père, dans un monde dévasté et violent.",
+      "logo": "https://assets.fanart.tv/fanart/fallout-6570a60013c96.png",
+      "runtime": "57min"
+    },
+    {
+      "id": "tt15435876",
+      "type": "series",
+      "name": "The Penguin",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/eV8TTHJOR8AJqPLm9uSLjnItgiU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+      "releaseInfo": "2024-2024",
+      "imdbRating": "8.6",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "description": "Les tentatives d'Oswald « Oz » Cobb de prendre le contrôle de Gotham City. La ville est en danger suite à l'effondrement de la digue qui la protégeait et Oz cherche à combler le vide laissé par la mort du puissant Carmine Falcone et ainsi enfin offrir à sa mère, Francis, la vie qu'il lui a toujours promise. Cependant, Oz doit d'abord affronter ses ennemis, parmi lesquels les enfants de Carmine, Sofia et Alberto Falcone; la famille Maroni, dirigée par Salvatore, son patriarche actuellement sous les verrous ; et la réputation démoralisante d'Oz lui-même, que l'on surnomme « le Pingouin ».",
+      "logo": "https://image.tmdb.org/t/p/original/xwCEY3m3scio8Nuqmeai1OwATgY.png",
+      "runtime": "1h10min"
+    },
+    {
+      "id": "tt13406094",
+      "type": "series",
+      "name": "The White Lotus",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/gtpgpoJpizu21FLJCVDFfySOfoq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qVBIAcZkK5j6WRq7JehJcOMbdgb.jpg",
+      "logo": "https://assets.fanart.tv/fanart/the-white-lotus--610ad470c609d.png",
+      "releaseInfo": "2021-",
+      "imdbRating": "8.0",
+      "runtime": "1h27min",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Mystère"
+      ],
+      "description": "Dans une station balnéaire au paysage de carte postale, des clients profitent de leurs vacances dans un cadre idyllique, pris en charge par un personnel des plus agréables et serviables. Très vite, il devient clair que le bonheur apparent et les sourires..."
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/eRMfekBOnwyE9G0ffyEJIBOjX2n.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/ywmyZlgMwyrw221Q9vJumhESQ1E.png",
+      "releaseInfo": "2011-2019",
+      "imdbRating": "9.2",
+      "runtime": "1h20min",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Drame",
+        "Action & Adventure"
+      ],
+      "description": "Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie, des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept..."
+    },
+    {
+      "id": "tt7366338",
+      "type": "series",
+      "name": "Chernobyl",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pGp9J1UQ7saFNcqTRXsWvQPCqB0.png",
+      "releaseInfo": "2019-2019",
+      "imdbRating": "9.3",
+      "runtime": "1h13min",
+      "genres": [
+        "Drame"
+      ],
+      "description": "L'histoire vraie de la pire catastrophe causée par l'homme et de ceux qui ont sacrifié leur vie pour sauver l'Europe du drame."
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/v1pOP44wChdvxoGhnjSmhnzyDje.jpg",
+      "background": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+      "logo": "https://assets.fanart.tv/fanart/true-detective-5274d734015ac.png",
+      "releaseInfo": "2014-",
+      "imdbRating": "8.8",
+      "runtime": "1h16min",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "description": "Série d'anthologie dans laquelle les enquêtes policières mettent au jour les secrets personnels et professionnels des personnes impliquées, tant à l'intérieur qu'à l'extérieur de la loi."
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "Le Seigneur des anneaux : Les Anneaux de pouvoir",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/8aiJ6pr5ibhHMWe3yOEZQsdkFox.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "releaseInfo": "2022-",
+      "imdbRating": "6.8",
+      "genres": [
+        "Action & Adventure",
+        "Science-Fiction & Fantastique"
+      ],
+      "description": "Divers personnages, connus et inconnus, doivent faire face à la résurgence du mal en Terre du Milieu. Des profondeurs des Montagnes de Brume aux forêts majestueuses du Lindon, de l'île des Rois de Númenor aux contrées les plus éloignées du monde, ces royaumes et personnages vont forger un héritage qui demeurera bien après leur disparition.",
+      "logo": "https://image.tmdb.org/t/p/original/qXCo0jj8AufaZsV5uZ2DA6MYhOC.png",
+      "runtime": "1h5min"
+    }
+  ]
+}

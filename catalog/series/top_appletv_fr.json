@@ -1,0 +1,176 @@
+{
+  "metas": [
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/xmjW474DJ27bqTYNvS4MvraJgiQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/xBm0F0SHB1uGbcswRi6ypXtmbi4.png",
+      "releaseInfo": "2022-",
+      "imdbRating": "8.6",
+      "runtime": "1h20min",
+      "genres": [
+        "Drame",
+        "Mystère",
+        "Science-Fiction & Fantastique"
+      ],
+      "description": "Mark dirige une équipe d'employés de bureau dont les souvenirs ont été scindés chirurgicalement en fonction de leur vie professionnelle et de leur vie privée. L'irruption d'un mystérieux collègue en dehors du bureau enclenche une longue quête de vérité sur..."
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/dxktdopZCOlff10ocoEdn2TXBzl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+      "releaseInfo": "2023-",
+      "imdbRating": "8.1",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Drame"
+      ],
+      "description": "Dans un monde futur dévasté et toxique, des milliers de survivants habitent un gigantesque silo souterrain. Après la transgression d'une règle d'or par leur shérif et la mort mystérieuse de plusieurs résidents, Juliette, une mécanicienne, perce peu à peu les terribles secrets du Silo.",
+      "logo": "https://assets.fanart.tv/fanart/silo-6449568937cd8.png",
+      "runtime": "1h1min"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+      "releaseInfo": "2020-",
+      "imdbRating": "8.7",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "description": "Ted Lasso, entraîneur de football américain, débarque à Londres pour coacher une équipe de football... pas américain. Face à une équipe et une ville dubitatives, arrivera-t-il à leur faire adopter la méthode Ted Lasso ?",
+      "logo": "https://assets.fanart.tv/fanart/ted-lasso-63e40244f29fd.png",
+      "runtime": "56min"
+    },
+    {
+      "id": "tt19854762",
+      "type": "series",
+      "name": "Hijack",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/3QL5fgnSy5NJn1oZTwasGupFI5m.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aRZ7k1M3AdjVv8n3Fi6cAkEdpYY.jpg",
+      "releaseInfo": "2023-",
+      "imdbRating": "7.3",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Sam Nelson, négociateur expert, est sur le point de vivre l’épreuve de sa vie, tout comme les passagers coincés à bord, quand un groupe de terroristes prend le contrôle du métro. Sam va tout mettre en œuvre pour les arrêter… alors que les enjeux s’intensifient chaque seconde.",
+      "logo": "https://image.tmdb.org/t/p/original/6sjJDpbnXdQGjiFcVTcW2GkZDjT.png",
+      "runtime": "50min"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/uAU6AFatRCIwthPRJ16Tcf7pSXy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "releaseInfo": "2022-",
+      "imdbRating": "8.4",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "description": "Une équipe d’agents secrets britanniques mis au placard par le MI5 suite aux erreurs qu’ils ont commises en mission. Placés sous les ordres d’un chef aussi brillant qu’irascible, le célèbre Jackson Lamb, ils naviguent dans le monde de l’espionnage, où règnent les faux-semblants, pour défendre la Grande-Bretagne contre les forces ennemies.",
+      "logo": "https://image.tmdb.org/t/p/original/uhlIJXzqpLB2zUxZAEdwfGRGR7U.png",
+      "runtime": "1h2min"
+    },
+    {
+      "id": "tt0804484",
+      "type": "series",
+      "name": "Foundation",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/zy70mjUsPPjQredAXWuo9VWVGoE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+      "releaseInfo": "2021-",
+      "imdbRating": "7.6",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Drame"
+      ],
+      "description": "Inspirée des romans primés d'Isaac Asimov, Foundation est la chronique de l'extraordinaire voyage d'une bande d'exilés pour sauver l'humanité et reconstruire la civilisation pendant la chute de l'Empire galactique.",
+      "logo": "https://image.tmdb.org/t/p/original/zD9RWNfALItBYRPDCoNtSrMzk3s.png",
+      "runtime": "52min"
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/7gGSA1uHTcBM3tVwX8CUxvcZXMH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uMsTtNaUEWOE2q64m8zthBIMgen.jpg",
+      "releaseInfo": "2019-",
+      "imdbRating": "8.1",
+      "genres": [
+        "Drame"
+      ],
+      "description": "Portrait sans concession des coulisses d'une matinale télé aux États-Unis, où l’ego et les ambitions génèrent des tensions au sein de l'équipe. Parmi ces personnes qui aident l'Amérique à se réveiller, deux femmes tentent de tirer leur épingle du jeu dans ce milieu impitoyable.",
+      "logo": "https://image.tmdb.org/t/p/original/ivrqH33M3tDY8GxcbAmk8ER1mTA.png",
+      "runtime": "56min"
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/guUVzb8Xe04uw95KOfQGb4yldZN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+      "releaseInfo": "2024-",
+      "imdbRating": "7.6",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Drame"
+      ],
+      "description": "Un physicien, professeur et père de famille qui, alors qu’il rentre chez lui un soir à pied dans les rues de Chicago, est projeté dans une version alternative de sa propre vie. L’émerveillement se transforme rapidement en cauchemar quand il essaie de retourner à sa réalité perdue dans le paysage hallucinant des vies qu’il aurait pu vivre. Dans ce labyrinthe de réalités, il s’embarque dans un voyage éprouvant pour retrouver sa véritable famille et la sauver de l’ennemi le plus terrifiant et invincible : lui-même.",
+      "logo": "https://image.tmdb.org/t/p/original/nRdzrKGH1jVRWpjXZNF4P6WHpP.png",
+      "runtime": "51min"
+    },
+    {
+      "id": "tt10278918",
+      "type": "series",
+      "name": "Willow",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/93SxdkiR3gBcbG5FxIt0DCBttul.jpg",
+      "releaseInfo": "2022-",
+      "imdbRating": "5.7",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Action & Adventure",
+        "Drame"
+      ],
+      "description": "L'action se déroule plusieurs années après les événements relatés dans le film. Au royaume enchanté des fées et du dragon à deux têtes Eborsisk, de nouveaux personnages feront leur apparition, mais on retrouvera également Willow Ufgood, le nain amateur de magie.",
+      "logo": "https://image.tmdb.org/t/p/original/5VjqwdX7NIO4mpJOWn9z2sDKU0y.png",
+      "runtime": "52min"
+    },
+    {
+      "id": "tt13016388",
+      "type": "series",
+      "name": "Le Problème à 3 corps",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/vnSDwnLpi8bxbkjOHMFdbRUySZ8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
+      "releaseInfo": "2024-",
+      "imdbRating": "7.5",
+      "genres": [
+        "Science-Fiction & Fantastique",
+        "Mystère",
+        "Drame"
+      ],
+      "description": "Dans la Chine des années 60, une jeune femme prend une décision dont les répercussions à travers le temps et l'espace vont affecter le monde d'aujourd'hui. Lorsque les lois de la nature se délitent inexplicablement sous les yeux d'un groupe soudé de brillants scientifiques, ils unissent leurs forces à celles d'un inspecteur peu orthodoxe pour affronter la plus grande menace de l'histoire de l'humanité.",
+      "logo": "https://image.tmdb.org/t/p/original/wauzJodbcC0RKNlWEw7RuqhMwgW.png",
+      "runtime": "57min"
+    }
+  ]
+}

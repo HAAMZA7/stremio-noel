@@ -1,8 +1,8 @@
 {
   "id": "com.hamza.stremio.noel.fr",
-  "version": "3.0.0",
-  "name": "🎬 Sélections Maison (FR)",
-  "description": "Portail cinéma 100% français vérifié VF 4K HDR : Noël, Stephen King, Nouveautés, Films Cultes & Séries.",
+  "version": "4.0.0",
+  "name": "🎬 CinéFR Portail (FR)",
+  "description": "Portail auto-actualisé 100 % français HD : Noël, Stephen King, Sorties Ciné 4K VF, Top Netflix FR, Apple TV+ FR, Disney+ FR, Max & Prime FR, Films Cultes.",
   "logo": "https://em-content.zobj.net/source/apple/391/clapper-board_1f3ac.png",
   "resources": [
     "catalog"
@@ -38,17 +38,32 @@
     {
       "type": "movie",
       "id": "nouveautes_fr",
-      "name": "🆕 Nouveautés & Hits Récents"
+      "name": "🆕 Sorties Ciné & Hits 4K VF"
+    },
+    {
+      "type": "series",
+      "id": "top_netflix_fr",
+      "name": "🔴 Top Netflix France"
+    },
+    {
+      "type": "series",
+      "id": "top_appletv_fr",
+      "name": "🍏 Top Apple TV+ France"
+    },
+    {
+      "type": "movie",
+      "id": "top_disney_fr",
+      "name": "🏰 Top Disney+ France"
+    },
+    {
+      "type": "series",
+      "id": "top_max_prime_fr",
+      "name": "🟣 Top Max & Prime Video France"
     },
     {
       "type": "movie",
       "id": "cultes_fr",
       "name": "🏆 Films Cultes & Soirées Ciné"
-    },
-    {
-      "type": "series",
-      "id": "series_cultes_fr",
-      "name": "📺 Séries Incontournables"
     }
   ]
 }

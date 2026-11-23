@@ -1,0 +1,185 @@
+{
+  "metas": [
+    {
+      "id": "tt22022452",
+      "type": "movie",
+      "name": "Vice-versa 2",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/9Jic8z9NEeCEmSJFgFHZF1lWMFo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eO3NJ6DTSbC26vQ3Mv6AQAAJonY.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5",
+      "runtime": "1h37min",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie"
+      ],
+      "description": "Riley, adolescente depuis peu, au moment où le Quartier Cérébral doit être démoli pour faire place à un événement totalement inattendu : de nouvelles Émotions ! Joie, Tristesse, Colère, Peur et Dégoût, qui ont longtemps su contrôler les choses avec succès,..."
+    },
+    {
+      "id": "tt6263850",
+      "type": "movie",
+      "name": "Deadpool & Wolverine",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/7CtRdKd5hQPB2b1apKCqxxQUKSf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pd298Rfg4VBoye4kriAUf5yZfes.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5",
+      "runtime": "2h8min",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Science-Fiction"
+      ],
+      "description": "Un Wade Wilson désabusé s'abrutit de travail dans le civil. Sa vie de mercenaire moralement flexible, Deadpool, est derrière lui. Mais quand son monde est menacé d'anéantissement, il accepte à contrecœur de reprendre le flambeau, et de convaincre un..."
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Vaiana 2",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zenhHwP1VVBSyFbTBV49iR04Snb.png",
+      "releaseInfo": "2024",
+      "imdbRating": "6.3",
+      "runtime": "1h40min",
+      "genres": [
+        "Aventure",
+        "Animation",
+        "Comédie"
+      ],
+      "description": "Après avoir reçu une invitation inattendue de ses ancêtres, Vaiana entreprend un périple qui la conduira jusqu’aux eaux dangereuses situées aux confins des mers des îles du Pacifique. Elle y vivra des péripéties comme jamais vécues auparavant."
+    },
+    {
+      "id": "tt18412256",
+      "type": "movie",
+      "name": "Alien : Romulus",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/xmDypImhT0OOloQIj3JLslUrBw8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eEgosQyyYFzzOAsGIrcK2vHyYjD.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.1",
+      "runtime": "1h59min",
+      "genres": [
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "description": "Quelques années après les événements sur le vaisseau Nostromo, un groupe de jeunes colons de l'espace travaillent en tant que mineurs dans l'espoir de rejoindre une autre planète verdoyante, Yvaga. Un des membres propose d'utiliser une station spatiale..."
+    },
+    {
+      "id": "tt1630029",
+      "type": "movie",
+      "name": "Avatar : La Voie de l'eau",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/6WXn6RE1NAqcP2TfPcbVRawHUfE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+      "releaseInfo": "2022",
+      "imdbRating": "7.5",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Science-Fiction"
+      ],
+      "description": "Une dizaine d'années s'est écoulée depuis les précédents évènements survenus sur Pandora. Jake Sully et Neytiri sont devenus parents. Leur vie idyllique, proche de la nature, est menacée lorsque la « Ressources Développement Administration », dangereuse organisation non-gouvernementale, est de retour sur Pandora. Contraints de quitter leur habitat naturel, Jake et sa famille se rendent sur les récifs, où ils pensent trouver asile. Mais ils tombent sur un clan, les Metkayina, aux mœurs différentes des leurs.",
+      "logo": "https://image.tmdb.org/t/p/original/oMHeWRHn3bke2hPINKpAIbwWmxM.png",
+      "runtime": "3h12min"
+    },
+    {
+      "id": "tt2380307",
+      "type": "movie",
+      "name": "Coco",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/sZqcEV3KhDITHlUBmyj1a3RRvT9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "releaseInfo": "2017",
+      "imdbRating": "8.4",
+      "genres": [
+        "Familial",
+        "Animation",
+        "Musique",
+        "Aventure"
+      ],
+      "description": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz. Bien décidé à prouver son talent, Miguel, par un étrange concours de circonstances, se retrouve propulsé dans un monde étonnant et coloré lié aux célébrations des ancêtres. Là, il se lie d’amitié avec Hector, un gentil garçon mais un peu filou sur les bords. Ensemble, ils vont accomplir un voyage extraordinaire qui leur révèlera la véritable histoire qui se cache derrière celle de la famille de Miguel…",
+      "logo": "https://image.tmdb.org/t/p/original/cTaWqsn54w83nCpX8K3tuTRa3OG.png",
+      "runtime": "1h50min"
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "Le Roi lion",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/n6UChiAOSTHGih2FBactLjA4Cdt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "releaseInfo": "1994",
+      "imdbRating": "8.5",
+      "genres": [
+        "Animation",
+        "Familial",
+        "Drame"
+      ],
+      "description": "Disney présente l'histoire de Simba, un fougueux lionceau qui « voudrait déjà être roi ». Éloigné par son sombre et ambitieux oncle Scar, Simba profite de la vie avec ses drôles de compagnons Timon et Pumbaa, oubliant son rang et ses responsabilités. Mais son destin l'appelle à rentrer auprès des siens et à reprendre sa place dans le Grand Cercle de la Vie.",
+      "logo": "https://image.tmdb.org/t/p/original/6QK2lwAgmym2ctjb7Uvm6vTXD7g.png",
+      "runtime": "1h28min"
+    },
+    {
+      "id": "tt2948356",
+      "type": "movie",
+      "name": "Zootopie",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/5Fy3e9nRhPYweqnrzFUCHmJ4Grc.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "releaseInfo": "2016",
+      "imdbRating": "8.0",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Familial",
+        "Comédie"
+      ],
+      "description": "Avec ses quartiers comme la très chic Place du Sahara ou le glacial Toundraville, la métropole Zootopie, où ne vivent que des mammifères, est un melting pot où toutes les espèces cohabitent. Qu’on soit un énorme éléphant ou une minuscule musaraigne, tout le monde y a sa place. Mais quand l’optimiste agent Judy Hopps arrive en ville, elle découvre qu’être le premier lapin dans la police, au milieu d'animaux costauds, n’est pas si simple. Pour faire ses preuves, elle décide de résoudre une enquête, même si pour cela, elle doit faire équipe avec Nick Wilde, un renard beau parleur et roi de l’arnaque. Certaines séquences ou certains motifs lumineux clignotants sont susceptibles d'affecter les téléspectateurs photosensibles.",
+      "logo": "https://image.tmdb.org/t/p/original/uN4eHLR8Hwa9jCDClnO5PYPC29q.png",
+      "runtime": "1h49min"
+    },
+    {
+      "id": "tt0382932",
+      "type": "movie",
+      "name": "Ratatouille",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/iFcWBdTPeHQDS3OQxBcH3QaYXYv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/cROPrWNXuxLsgbcVhf0Md02Xg48.png",
+      "releaseInfo": "2007",
+      "imdbRating": "8.1",
+      "runtime": "1h50min",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Familial"
+      ],
+      "description": "Rémy est un jeune rat qui rêve de devenir un grand chef français. Ni l'opposition de sa famille, ni le fait d'être un rongeur dans une profession qui les déteste ne le démotivent. Rémy est prêt à tout pour vivre sa passion de la cuisine… et le fait..."
+    },
+    {
+      "id": "tt4154796",
+      "type": "movie",
+      "name": "Avengers : Endgame",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "releaseInfo": "2019",
+      "imdbRating": "8.4",
+      "genres": [
+        "Aventure",
+        "Science-Fiction",
+        "Action"
+      ],
+      "description": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvérisé « la moitié de toute forme de vie dans l'Univers », Captain America, Thor, Bruce Banner, Natasha Romanoff, War Machine, Tony Stark, Nébula et Rocket, vont essayer de trouver une solution pour ramener leurs coéquipiers disparus et vaincre Thanos en se faisant aider par Ronin alias Clint Barton, Captain Marvel et Ant-Man.",
+      "logo": "https://image.tmdb.org/t/p/original/g9ceyt6lxZwHgzdhgqrzy3WmZBB.png",
+      "runtime": "3h1min"
+    }
+  ]
+}
