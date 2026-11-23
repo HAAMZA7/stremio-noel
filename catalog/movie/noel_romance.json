@@ -63,6 +63,166 @@
         "Sélection"
       ],
       "description": "Comédie romantique culte britannique entre pulls de Noël, neige londonienne et triangle amoureux."
+    },
+    {
+      "id": "tt0125439",
+      "type": "movie",
+      "name": "Coup de foudre à Notting Hill",
+      "poster": "https://images.metahub.space/poster/small/tt0125439/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0125439/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0125439/img",
+      "releaseInfo": "1999",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Un libraire londonien timide voit sa vie basculer le jour où la plus grande star d'Hollywood entre dans sa boutique."
+    },
+    {
+      "id": "tt2194499",
+      "type": "movie",
+      "name": "Il était temps",
+      "poster": "https://images.metahub.space/poster/small/tt2194499/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2194499/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2194499/img",
+      "releaseInfo": "2013",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Par le créateur de Love Actually : un jeune homme découvre qu'il peut voyager dans le temps pour trouver l'amour."
+    },
+    {
+      "id": "tt0332280",
+      "type": "movie",
+      "name": "N'oublie jamais",
+      "poster": "https://images.metahub.space/poster/small/tt0332280/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0332280/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0332280/img",
+      "releaseInfo": "2004",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Une histoire d'amour bouleversante et intemporelle racontée à travers les pages d'un carnet."
+    },
+    {
+      "id": "tt1041829",
+      "type": "movie",
+      "name": "La Proposition",
+      "poster": "https://images.metahub.space/poster/small/tt1041829/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1041829/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1041829/img",
+      "releaseInfo": "2009",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Une patronne redoutable force son assistant (Ryan Reynolds) à l'épouser le temps d'un week-end en Alaska."
+    },
+    {
+      "id": "tt1570728",
+      "type": "movie",
+      "name": "Crazy, Stupid, Love",
+      "poster": "https://images.metahub.space/poster/small/tt1570728/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1570728/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1570728/img",
+      "releaseInfo": "2011",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Comédie romantique drôle et irrésistible avec Ryan Gosling, Emma Stone et Steve Carell."
+    },
+    {
+      "id": "tt26047818",
+      "type": "movie",
+      "name": "Tout sauf toi",
+      "poster": "https://images.metahub.space/poster/small/tt26047818/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt26047818/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26047818/img",
+      "releaseInfo": "2023",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Deux ex qui se détestent font semblant d'être en couple le temps d'un mariage de rêve en Australie."
+    },
+    {
+      "id": "tt3783958",
+      "type": "movie",
+      "name": "La La Land",
+      "poster": "https://images.metahub.space/poster/small/tt3783958/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3783958/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3783958/img",
+      "releaseInfo": "2016",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Une actrice en devenir et un pianiste de jazz vivent une romance lumineuse à Los Angeles."
+    },
+    {
+      "id": "tt2674426",
+      "type": "movie",
+      "name": "Avant toi",
+      "poster": "https://images.metahub.space/poster/small/tt2674426/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2674426/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2674426/img",
+      "releaseInfo": "2016",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Emilia Clarke illumine la vie d'un jeune aristocrate cynique dans une romance très émouvante."
+    },
+    {
+      "id": "tt0100405",
+      "type": "movie",
+      "name": "Pretty Woman",
+      "poster": "https://images.metahub.space/poster/small/tt0100405/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0100405/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0100405/img",
+      "releaseInfo": "1990",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "La comédie romantique la plus culte avec Julia Roberts et Richard Gere."
+    },
+    {
+      "id": "tt1473832",
+      "type": "movie",
+      "name": "Bridget Jones Baby",
+      "poster": "https://images.metahub.space/poster/small/tt1473832/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1473832/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1473832/img",
+      "releaseInfo": "2016",
+      "imdbRating": "",
+      "genres": [
+        "Romance",
+        "Feel-Good"
+      ],
+      "description": "Bridget revient en pleine forme dans une comédie britannique drôle et feel-good."
     }
   ]
 }

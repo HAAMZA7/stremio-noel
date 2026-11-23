@@ -1,6 +1,6 @@
 {
   "id": "com.hamza.stremio.noel.fr",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "name": "🎬 Sélections Maison (FR)",
   "description": "Portail maison 100% VF vérifié : Noël (3 rangées) + Stephen King, résumés & audio français.",
   "logo": "https://em-content.zobj.net/source/apple/391/christmas-tree_1f384.png",
@@ -17,7 +17,7 @@
     {
       "type": "movie",
       "id": "noel_romance",
-      "name": "❤️ Romances & Feel-Good de Noël"
+      "name": "❤️ Romances & Feel-Good (Noël & Cultes)"
     },
     {
       "type": "movie",
