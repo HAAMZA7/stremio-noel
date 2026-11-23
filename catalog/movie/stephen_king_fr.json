@@ -4,222 +4,292 @@
       "id": "tt0111161",
       "type": "movie",
       "name": "Les Évadés",
-      "poster": "https://images.metahub.space/poster/small/tt0111161/img",
+      "poster": "https://image.tmdb.org/t/p/w500/t30GjttOdb5At1sYy8b3TOwFgWV.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0111161/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0111161/img",
+      "background": "https://image.tmdb.org/t/p/original/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eblAEOleGuhR4xWAGXBTr0rbptu.png",
       "releaseInfo": "1994",
-      "imdbRating": "",
+      "imdbRating": "9.3",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Drame",
+        "Crime"
       ],
-      "description": "Condamné à tort, un banquier noue une amitié inoubliable en prison et prépare sa rédemption."
+      "description": "En 1947, Andy Dufresne, un jeune banquier, est condamné à la prison à vie pour le meurtre de sa femme et de son amant. Ayant beau clamer son innocence, il est emprisonné à Shawshank, le pénitencier le plus sévère de l'État du Maine. Il y fait la rencontre...",
+      "runtime": "2h20min"
     },
     {
       "id": "tt0081505",
       "type": "movie",
       "name": "Shining",
-      "poster": "https://images.metahub.space/poster/small/tt0081505/img",
+      "poster": "https://image.tmdb.org/t/p/w500/cnniZQGtjK8kh2tsjih4GtkX6bl.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0081505/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0081505/img",
+      "background": "https://image.tmdb.org/t/p/original/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/7hm5KVthfhdtzCmblvnXK7TPOEL.png",
       "releaseInfo": "1980",
-      "imdbRating": "",
+      "imdbRating": "8.4",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Horreur",
+        "Thriller"
       ],
-      "description": "Isolé tout l'hiver dans un hôtel hanté sous la neige, un écrivain sombre peu à peu dans la folie."
+      "description": "Jack Torrance, gardien d’un hôtel fermé l’hiver, sa femme et son fils Danny s’apprêtent à vivre de longs mois de solitude. Danny, qui possède un don de médium, le «Shining», est effrayé à l’idée d’habiter ce lieu, théâtre marqué par de terribles événements...",
+      "runtime": "1h59min"
     },
     {
       "id": "tt5606664",
       "type": "movie",
       "name": "Doctor Sleep",
-      "poster": "https://images.metahub.space/poster/small/tt5606664/img",
+      "poster": "https://image.tmdb.org/t/p/w500/yEat1dtAfJRagwENusGDPpVR1A6.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt5606664/img",
-      "logo": "https://images.metahub.space/logo/medium/tt5606664/img",
+      "background": "https://image.tmdb.org/t/p/original/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+      "logo": "https://assets.fanart.tv/fanart/doctor-sleep-5d9e2eeee4e11.png",
       "releaseInfo": "2019",
-      "imdbRating": "",
+      "imdbRating": "7.3",
       "genres": [
-        "Stephen King",
-        "Thriller",
+        "Horreur",
         "Fantastique"
       ],
-      "description": "La suite directe de Shining : Danny Torrance adulte protège une jeune fille aux pouvoirs extraordinaires."
+      "description": "Encore profondément marqué par le traumatisme qu'il a vécu, enfant, à l'Overlook Hotel, Dan Torrance a dû se battre pour tenter de trouver un semblant de sérénité. Mais quand il rencontre Abra, courageuse adolescente aux dons extrasensoriels, ses vieux...",
+      "runtime": "2h31min"
     },
     {
       "id": "tt1396484",
       "type": "movie",
-      "name": "Ça (Chapitre 1)",
-      "poster": "https://images.metahub.space/poster/small/tt1396484/img",
+      "name": "Ça",
+      "poster": "https://image.tmdb.org/t/p/w500/3SUz0F0I2Bodcj9Ev2pYSWnE9zp.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt1396484/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1396484/img",
+      "background": "https://image.tmdb.org/t/p/original/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/orpkQDCphLW8nLRopfuEbPMZr1T.png",
       "releaseInfo": "2017",
-      "imdbRating": "",
+      "imdbRating": "7.3",
       "genres": [
-        "Stephen King",
+        "Horreur",
         "Thriller",
-        "Fantastique"
+        "Drame"
       ],
-      "description": "Dans la petite ville de Derry, sept enfants affrontent un clown maléfique qui se nourrit de leurs peurs."
+      "description": "À Derry, dans le Maine, aux États-Unis, 7 gamins, ayant du mal à s’intégrer, se sont regroupés au sein du Club des Ratés. Rejetés par leurs camarades, ils sont les cibles favorites des gros durs de l’école. Ils ont aussi en commun d’avoir éprouvé leur plus...",
+      "runtime": "2h15min"
     },
     {
       "id": "tt7349950",
       "type": "movie",
       "name": "Ça : Chapitre 2",
-      "poster": "https://images.metahub.space/poster/small/tt7349950/img",
+      "poster": "https://image.tmdb.org/t/p/w500/pWiALkHml93SWMdq2NSBFkfWOkJ.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt7349950/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7349950/img",
+      "background": "https://image.tmdb.org/t/p/original/6LVSrgm83UYWlrLTCVGmWhFKYO0.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/hqNezMYDguVflmMF3RJgXemHxJW.png",
       "releaseInfo": "2019",
-      "imdbRating": "",
+      "imdbRating": "6.5",
       "genres": [
-        "Stephen King",
+        "Horreur",
         "Thriller",
-        "Fantastique"
+        "Drame"
       ],
-      "description": "Vingt-sept ans plus tard, le Club des Ratés revient à Derry pour en finir définitivement avec Grippe-Sou."
+      "description": "Tous les 27 ans, une créature maléfique revient hanter les rues de Derry, dans le Maine, aux États-Unis. Près de trente ans après les événements du premier opus, les membres du Club des Ratés, désormais adultes, se retrouvent.",
+      "runtime": "2h49min"
     },
     {
       "id": "tt0100157",
       "type": "movie",
       "name": "Misery",
-      "poster": "https://images.metahub.space/poster/small/tt0100157/img",
+      "poster": "https://image.tmdb.org/t/p/w500/vRJEpqZ3BX7N2SzAidQONcsrZsQ.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0100157/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0100157/img",
+      "background": "https://image.tmdb.org/t/p/original/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+      "logo": "https://assets.fanart.tv/fanart/misery-57b0be2ca952d.png",
       "releaseInfo": "1990",
-      "imdbRating": "",
+      "imdbRating": "7.8",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Drame",
+        "Thriller"
       ],
-      "description": "Après un accident sous la neige, un célèbre romancier est recueilli par sa fan numéro un... totalement obsédée."
+      "description": "Paul Sheldon, romancier et créateur du personnage de Misery dont il a écrit la saga est satisfait. Il vient enfin de faire mourir son héroïne et peut passer à autre chose. Il quitte l’hôtel de montagne où il a l’habitude d’écrire et prend la route de New...",
+      "runtime": "1h47min"
     },
     {
       "id": "tt0884328",
       "type": "movie",
       "name": "The Mist",
-      "poster": "https://images.metahub.space/poster/small/tt0884328/img",
+      "poster": "https://image.tmdb.org/t/p/w500/dW7yzvfGFHCWlOGJUclrs9fGNV4.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0884328/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0884328/img",
+      "background": "https://image.tmdb.org/t/p/original/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+      "logo": "https://assets.fanart.tv/fanart/the-mist-51e067259820d.png",
       "releaseInfo": "2007",
-      "imdbRating": "",
+      "imdbRating": "7.1",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Horreur",
+        "Science-Fiction",
+        "Thriller"
       ],
-      "description": "Un épais brouillard rempli de créatures piège les habitants d'une ville dans un supermarché."
+      "description": "Tandis qu'une brume étrange semble envelopper une petite ville du Maine, David Drayton et son jeune fils Billy se retrouvent pris au piège dans un supermarché, en compagnie d'autres habitants terrorisés. David ne tarde pas à s'apercevoir que le brouillard...",
+      "runtime": "2h0min"
     },
     {
       "id": "tt0092005",
       "type": "movie",
-      "name": "Stand by Me (Compte sur moi)",
-      "poster": "https://images.metahub.space/poster/small/tt0092005/img",
+      "name": "Stand by Me",
+      "poster": "https://image.tmdb.org/t/p/w500/paxBmWVvdw1yiAnSxBxuYUyZKBA.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0092005/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0092005/img",
+      "background": "https://image.tmdb.org/t/p/original/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+      "logo": "https://assets.fanart.tv/fanart/stand-by-me-52528e14f1c01.png",
       "releaseInfo": "1986",
-      "imdbRating": "",
+      "imdbRating": "8.1",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Drame",
+        "Aventure"
       ],
-      "description": "Quatre amis de 12 ans partent en expédition le long d'une voie ferrée durant un été inoubliable."
+      "description": "Un événement peu ordinaire va marquer la vie du jeune Gordie Lachance. Au cours de l’été 1959, un adolescent a disparu mystérieusement dans l'Oregon. Gordie et ses inséparables copains, Chris, Teddy et Vern savent qu'il est mort pour avoir approché de trop...",
+      "runtime": "1h25min"
     },
     {
       "id": "tt0074285",
       "type": "movie",
       "name": "Carrie au bal du diable",
-      "poster": "https://images.metahub.space/poster/small/tt0074285/img",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqBZyy5QeQ4YhiMurGb54TdvtU.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0074285/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0074285/img",
+      "background": "https://image.tmdb.org/t/p/original/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/fBPhwptVgmEb7mWyWDF1bCfIxnz.png",
       "releaseInfo": "1976",
-      "imdbRating": "",
+      "imdbRating": "7.4",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Horreur",
+        "Thriller"
       ],
-      "description": "Une lycéenne solitaire et harcelée découvre qu'elle possède de redoutables pouvoirs télékinésiques."
+      "description": "Carrie est une adolescente torturée, mal dans sa peau et totalement ignorante de l’étendue de son pouvoir de télékinésie. Mais lorsque les brimades de sa mère, véritable bigote psychotique, et de ses camarades de classe sadiques dépassent les bornes,...",
+      "runtime": "1h38min"
     },
     {
       "id": "tt0363988",
       "type": "movie",
       "name": "Fenêtre secrète",
-      "poster": "https://images.metahub.space/poster/small/tt0363988/img",
+      "poster": "https://image.tmdb.org/t/p/w500/mOLEDcCD3qh4jWeuwPxCEZWRW7J.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0363988/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0363988/img",
+      "background": "https://image.tmdb.org/t/p/original/dBSYDUZpps3LWru7ofUZAYoFgUj.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jge8LkssgTWYx6oUyiR7Wpk8zSm.png",
       "releaseInfo": "2004",
-      "imdbRating": "",
+      "imdbRating": "6.5",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Mystère",
+        "Thriller"
       ],
-      "description": "Johnny Depp en écrivain isolé accusé de plagiat par un inconnu inquiétant qui ne le lâche plus."
+      "description": "Mort Rainey, un écrivain frappé du syndrome de la page blanche, est harcelé par un dangereux psychopathe. Ce dernier l'accuse d'avoir plagié son histoire et demande réparation. Malgré les efforts de Rainey pour le calmer, l'individu devient de plus en plus...",
+      "runtime": "1h36min"
     },
     {
       "id": "tt0837563",
       "type": "movie",
-      "name": "Simetierre (2019)",
-      "poster": "https://images.metahub.space/poster/small/tt0837563/img",
+      "name": "Simetierre",
+      "poster": "https://image.tmdb.org/t/p/w500/pJukqzxJxkkGlzCuNvHe66C4ce5.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0837563/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0837563/img",
+      "background": "https://image.tmdb.org/t/p/original/8iZjnNSIH4teZERl0VjUeHHVrec.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/w2OhFVvofhHl8zc0rHA1eudzoAv.png",
       "releaseInfo": "2019",
-      "imdbRating": "",
+      "imdbRating": "5.7",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Horreur"
       ],
-      "description": "Version moderne et sombre du roman culte de Stephen King sur le cimetière maudit."
+      "description": "Le docteur Louis Creed, sa femme Rachel et leurs deux jeunes enfants quittent Boston pour s'installer dans une région rurale du Maine. Près de sa maison, le docteur découvre un mystérieux cimetière caché au fond des bois. Peu après, une tragédie s’abat sur...",
+      "runtime": "1h41min"
     },
     {
       "id": "tt0085333",
       "type": "movie",
       "name": "Christine",
-      "poster": "https://images.metahub.space/poster/small/tt0085333/img",
+      "poster": "https://image.tmdb.org/t/p/w500/hsAlSfDFmxNlNa88CeRzlwYeCrA.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0085333/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0085333/img",
+      "background": "https://image.tmdb.org/t/p/original/6goydaLavDu3d2g3kFJHECZiddt.jpg",
+      "logo": "https://assets.fanart.tv/fanart/christine-572e7b15b310e.png",
       "releaseInfo": "1983",
-      "imdbRating": "",
+      "imdbRating": "6.8",
       "genres": [
-        "Stephen King",
-        "Thriller",
-        "Fantastique"
+        "Horreur"
       ],
-      "description": "Un lycéen timide restaure une vieille Plymouth Fury rouge de 1958 dotée d'une volonté propre meurtrière."
+      "description": "La première fois qu'Arnie vit Christine, il tomba en extase devant cette beauté aux formes éblouissantes. C'était dit, ils allaient lier leurs destins pour le meilleur et pour le pire. Mais Christine, la belle Plymouth, modèle 57, n'aime pas trop les...",
+      "runtime": "1h50min"
     },
     {
       "id": "tt0085407",
       "type": "movie",
       "name": "Dead Zone",
-      "poster": "https://images.metahub.space/poster/small/tt0085407/img",
+      "poster": "https://image.tmdb.org/t/p/w500/6cuJNjwDFf7blZf0S0G0N39WdFI.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0085407/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0085407/img",
+      "background": "https://image.tmdb.org/t/p/original/icvgQHxrKEDx92VQ5WHiEmEAUKH.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2uF2WEV1QZocYZdmTLF2vEw4bHY.png",
       "releaseInfo": "1983",
-      "imdbRating": "",
+      "imdbRating": "7.1",
       "genres": [
-        "Stephen King",
         "Thriller",
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "description": "Un professeur de lycée subit avec sa future femme un accident de voiture qui va bouleverser sa vie. Lorsqu'il se réveille d'un coma de cinq ans, il découvre qu'il peut prédire le sort d'une personne par un simple contact physique. Ce pouvoir peut être un...",
+      "runtime": "1h43min"
+    },
+    {
+      "id": "tt10245072",
+      "type": "movie",
+      "name": "Salem's Lot",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/YFD4QcyNREbq2epgh9Xd0Vq35L.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jf1V00dZdNkVfEq7VPk8frrlELk.jpg",
+      "logo": "https://assets.fanart.tv/fanart/salems-lot-66fc14e9dd65b.png",
+      "releaseInfo": "2024",
+      "imdbRating": "5.6",
+      "runtime": "1h53min",
+      "genres": [
+        "Horreur"
+      ],
+      "description": "Ben Mears revient dans sa ville natale de Salem, infestée de vampires. Il parvient à convaincre un petit groupe de croyants de combattre les morts-vivants."
+    },
+    {
+      "id": "tt0093894",
+      "type": "movie",
+      "name": "Running Man",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/h7UsDE1FBHdUDbucn2UoAjUprEu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ssQ7IcGmgUJdFLv8cHY3vC3OR4f.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nbU3HhmVv06kZFEkZOMJoKku1yB.png",
+      "releaseInfo": "1987",
+      "imdbRating": "6.6",
+      "runtime": "1h41min",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science-Fiction"
+      ],
+      "description": "Los Angeles, 2019 : les USA sont sous la coupe d’une dictature qui a réduit les libertés publiques à néant et qui, grâce à des programmes télévisés bassement démagogiques, parvient à conditionner le comportement populaire. Le jeu‐vedette, suivi avec..."
+    },
+    {
+      "id": "tt27714946",
+      "type": "movie",
+      "name": "The Monkey",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+      "logo": "https://assets.fanart.tv/fanart/the-monkey-672bd4a067844.png",
+      "releaseInfo": "2025",
+      "imdbRating": "5.9",
+      "runtime": "1h37min",
+      "genres": [
+        "Horreur",
+        "Comédie"
+      ],
+      "description": "Lorsque les jumeaux Bill et Hal trouvent le vieux jouet de singe de leur père, une série de morts effroyables commence. Les deux frères décident de jeter le jouet et de poursuivre leur vie, tout en s'éloignant l'un de l'autre."
+    },
+    {
+      "id": "tt12908150",
+      "type": "movie",
+      "name": "Life of Chuck",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/gSJzgltK1mx2m6SNQhStbXiqu7l.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/hHegsGEENEF7OZkKQhg7NkXs4JW.png",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "runtime": "1h51min",
+      "genres": [
+        "Drame",
         "Fantastique"
       ],
-      "description": "Après cinq ans de coma, un homme se réveille avec le don terrifiant de voir l'avenir en touchant les gens."
+      "description": "Basé sur la nouvelle de Stephen King, qui raconte trois chapitres de la vie d'un homme ordinaire nommé Charles Krantz en commençant par sa mort d'une tumeur cérébrale à 39 ans et en terminant par son enfance dans une maison prétendument hantée."
     }
   ]
 }

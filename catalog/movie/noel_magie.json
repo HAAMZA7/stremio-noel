@@ -3,194 +3,217 @@
     {
       "id": "tt14855468",
       "type": "movie",
-      "name": "Ce Noël-là (2024)",
-      "poster": "https://images.metahub.space/poster/small/tt14855468/img",
+      "name": "Ce Noël-là",
+      "poster": "https://image.tmdb.org/t/p/w500/uxVCEWQtDTHG9Np0h5obdVeuw70.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt14855468/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14855468/img",
+      "background": "https://image.tmdb.org/t/p/original/1rpyQcniNIJgsE0wKLOqPk2n7b7.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mGGgSwjpmhsmuN8IcIt18kvSJMj.png",
       "releaseInfo": "2024",
-      "imdbRating": "",
+      "imdbRating": "6.8",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Animation",
+        "Comédie",
+        "Familial"
       ],
-      "description": "Un blizzard historique chamboule le Noël d'une petite ville côtière et les plans du Père Noël."
+      "description": "Les habitants de Wellington-on-Sea vont vivre un Noël inoubliable quand la pire tempête de neige de l'histoire bouleverse les plans de chacun, à commencer par ceux du père Noël.",
+      "runtime": "1h35min"
     },
     {
       "id": "tt0338348",
       "type": "movie",
-      "name": "Le Pôle Express",
-      "poster": "https://images.metahub.space/poster/small/tt0338348/img",
+      "name": "Le Pôle express",
+      "poster": "https://image.tmdb.org/t/p/w500/iuksIOxXUYkI2Ung59E0DNRK8Vr.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0338348/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0338348/img",
+      "background": "https://image.tmdb.org/t/p/original/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/aPYZo5w2YXECnQDrx2sl677GG5s.png",
       "releaseInfo": "2004",
-      "imdbRating": "",
+      "imdbRating": "6.6",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Aventure",
+        "Animation",
+        "Familial"
       ],
-      "description": "La nuit de Noël, un jeune garçon embarque dans un train magique direction le Pôle Nord."
+      "description": "Un jeune garçon qui se met à douter de l'existence du père Noël monte dans un train mystérieux en partance pour le pôle Nord. À mesure que le Pôle Express s'enfonce dans des contrées enchantées, l'aventure est au rendez-vous et les jeunes passagers...",
+      "runtime": "1h40min"
     },
     {
       "id": "tt2709692",
       "type": "movie",
-      "name": "Le Grinch (Animé)",
-      "poster": "https://images.metahub.space/poster/small/tt2709692/img",
+      "name": "Le Grinch",
+      "poster": "https://image.tmdb.org/t/p/w500/i5OqdE9T7X02hpXIETzZAOTf2za.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt2709692/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2709692/img",
+      "background": "https://image.tmdb.org/t/p/original/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jlaoPCc1pWV6d5F7rDm5ysWg29G.png",
       "releaseInfo": "2018",
-      "imdbRating": "",
+      "imdbRating": "6.4",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Animation",
+        "Comédie",
+        "Familial"
       ],
-      "description": "Version animée lumineuse et très drôle du célèbre grincheux vert."
+      "description": "Terré dans sa cave remplie d’inventions et d’engins pour ses besoins de tous les jours, Le Grinch ne voit ses voisins de Chouville que lorsqu’il manque de nourriture. Chaque année à Noël, ils viennent perturber sa tranquillité solitaire avec des...",
+      "runtime": "1h45min"
     },
     {
       "id": "tt1446192",
       "type": "movie",
       "name": "Les Cinq Légendes",
-      "poster": "https://images.metahub.space/poster/small/tt1446192/img",
+      "poster": "https://image.tmdb.org/t/p/w500/g4YdtN10YPhmrcetJOl7ZrxNSaP.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt1446192/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1446192/img",
+      "background": "https://image.tmdb.org/t/p/original/46IGtYNjpIvQYRIQlb2X493Wh8x.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/yLrgUMeKOSlsnWYuYZZ2aIuuas1.png",
       "releaseInfo": "2012",
-      "imdbRating": "",
+      "imdbRating": "7.2",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Action",
+        "Aventure",
+        "Animation"
       ],
-      "description": "Le Père Noël, Jack Frost et la Fée des Dents s'allient pour protéger les rêves des enfants."
+      "description": "Il existe dans le monde, dissimulés aux yeux des humains, quatre êtres surnaturels dotés de grands pouvoirs qui protègent l’innocence et l’imaginaire des enfants : le Père Noël, le Lapin de Pâques, la Fée des dents et le Marchand de sable. Lorsqu’ils...",
+      "runtime": "1h37min"
     },
     {
       "id": "tt0107688",
       "type": "movie",
-      "name": "L'Étrange Noël de Monsieur Jack",
-      "poster": "https://images.metahub.space/poster/small/tt0107688/img",
+      "name": "L'Étrange Noël de monsieur Jack",
+      "poster": "https://image.tmdb.org/t/p/w500/41hibKUdlEo6Qy8BZmc5GOenB8y.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0107688/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
+      "background": "https://image.tmdb.org/t/p/original/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/c3fJ98YNRHCUInChi3kihTJ3a0E.png",
       "releaseInfo": "1993",
-      "imdbRating": "",
+      "imdbRating": "7.9",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Fantastique",
+        "Animation",
+        "Familial"
       ],
-      "description": "Jack Skellington découvre la ville de Noël et décide de remplacer le Père Noël."
+      "description": "Jack Skellington, un épouvantail squelettique surnommé « le Roi des citrouilles », vit dans la ville d'Halloween. En tant que maître de l'épouvante, Jack occupe ses journées à préparer la prochaine fête d'Halloween. Mais le terrible épouvantail, lassé de...",
+      "runtime": "1h15min"
     },
     {
       "id": "tt1067106",
       "type": "movie",
       "name": "Le Drôle de Noël de Scrooge",
-      "poster": "https://images.metahub.space/poster/small/tt1067106/img",
+      "poster": "https://image.tmdb.org/t/p/w500/P42RboMyiVck4ccIZPy58gHU9z.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt1067106/img",
-      "logo": "https://images.metahub.space/logo/medium/tt1067106/img",
+      "background": "https://image.tmdb.org/t/p/original/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/wI2cKT3EMdwXsf5NvezIEwUHnRs.png",
       "releaseInfo": "2009",
-      "imdbRating": "",
+      "imdbRating": "6.8",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Animation",
+        "Familial",
+        "Fantastique"
       ],
-      "description": "Trois esprits de Noël emmènent le vieil avare Scrooge dans un voyage magique inoubliable."
+      "description": "Parmi tous les marchands de Londres, Ebenezer Scrooge est connu comme l’un des plus riches et des plus avares. Ce vieillard solitaire et insensible vit dans l’obsession de ses livres de comptes. Ni la mort de son associé, Marley, ni la pauvre condition de...",
+      "runtime": "1h36min"
     },
     {
       "id": "tt2294629",
       "type": "movie",
-      "name": "La Reine des Neiges",
-      "poster": "https://images.metahub.space/poster/small/tt2294629/img",
+      "name": "La Reine des neiges",
+      "poster": "https://image.tmdb.org/t/p/w500/nnQLuzh2H6tSk1U0Zyu0ju16FXU.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt2294629/img",
-      "logo": "https://images.metahub.space/logo/medium/tt2294629/img",
+      "background": "https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/d2EhE3Klfcawha3FKoQfEStn6mO.png",
       "releaseInfo": "2013",
-      "imdbRating": "",
+      "imdbRating": "7.4",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Animation",
+        "Familial",
+        "Aventure"
       ],
-      "description": "Anna part à la recherche de sa sœur Elsa dont les pouvoirs ont plongé le royaume dans un hiver éternel."
+      "description": "Anna, une jeune fille aussi audacieuse qu’optimiste, se lance dans un incroyable voyage en compagnie de Kristoff, un montagnard expérimenté, et de son fidèle renne, Sven à la recherche de sa sœur, Elsa, la Reine des Neiges qui a plongé le royaume...",
+      "runtime": "1h42min"
     },
     {
       "id": "tt4520988",
       "type": "movie",
-      "name": "La Reine des Neiges 2",
-      "poster": "https://images.metahub.space/poster/small/tt4520988/img",
+      "name": "La Reine des neiges II",
+      "poster": "https://image.tmdb.org/t/p/w500/6zbuHXiuCdHZ57fZOlfUknpzCjU.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt4520988/img",
-      "logo": "https://images.metahub.space/logo/medium/tt4520988/img",
+      "background": "https://image.tmdb.org/t/p/original/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/o2LJEwUbM8EPPr6mLnTzVeHTv6b.png",
       "releaseInfo": "2019",
-      "imdbRating": "",
+      "imdbRating": "6.8",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Familial",
+        "Animation",
+        "Aventure"
       ],
-      "description": "Elsa, Anna, Kristoff et Olaf s'aventurent dans la forêt enchantée pour découvrir l'origine des pouvoirs d'Elsa."
+      "description": "Elsa, Anna, Kristoff, Olaf et Sven voyagent bien au‐delà des portes d’Arendelle à la recherche de réponses sur le passé d’Elsa. Cette dernière rencontre un Nokk – un esprit d’eau mythique prenant la forme d’un cheval – qui utilise le pouvoir de l’océan...",
+      "runtime": "1h44min"
     },
     {
       "id": "tt0241527",
       "type": "movie",
       "name": "Harry Potter à l'école des sorciers",
-      "poster": "https://images.metahub.space/poster/small/tt0241527/img",
+      "poster": "https://image.tmdb.org/t/p/w500/fbxQ44VRdM2PVzHSNajUseUteem.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0241527/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0241527/img",
+      "background": "https://image.tmdb.org/t/p/original/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/yca5BCwAnHm7hJfJx8QVbMMaTLR.png",
       "releaseInfo": "2001",
-      "imdbRating": "",
+      "imdbRating": "7.7",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Aventure",
+        "Fantastique"
       ],
-      "description": "Poudlard sous la neige, la Grande Salle illuminée : l'ambiance hivernale magique par excellence."
+      "description": "Orphelin, le jeune Harry Potter peut enfin quitter ses tyranniques oncle et tante Dursley lorsqu'un curieux messager lui révèle qu'il est un sorcier. À 11 ans, Harry va enfin pouvoir intégrer la légendaire école de sorcellerie de Poudlard, y trouver une...",
+      "runtime": "2h33min"
     },
     {
       "id": "tt0363771",
       "type": "movie",
-      "name": "Le Monde de Narnia",
-      "poster": "https://images.metahub.space/poster/small/tt0363771/img",
+      "name": "Le Monde de Narnia : Le Lion, la sorcière blanche et l'armoire magique",
+      "poster": "https://image.tmdb.org/t/p/w500/1jMFs9wIuVMNuTxGHJQ3oTBn9SY.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0363771/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0363771/img",
+      "background": "https://image.tmdb.org/t/p/original/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3jjAqC7bT50N91ZWTp2uL26aLkX.png",
       "releaseInfo": "2005",
-      "imdbRating": "",
+      "imdbRating": "6.9",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Aventure",
+        "Familial",
+        "Fantastique"
       ],
-      "description": "Quatre enfants passent par une armoire magique vers un royaume figé dans un hiver sans Noël."
+      "description": "Le Monde de Narnia : chapitre 1 conte la lutte entre le bien et le mal qui oppose le magnifique lion Aslan aux forces des ténèbres dans le monde magique de Narnia. Grâce à ses sombres pouvoirs, la Sorcière Blanche a plongé Narnia dans un hiver qui dure...",
+      "runtime": "2h20min"
     },
     {
       "id": "tt0118617",
       "type": "movie",
       "name": "Anastasia",
-      "poster": "https://images.metahub.space/poster/small/tt0118617/img",
+      "poster": "https://image.tmdb.org/t/p/w500/t5l7STFPvS6Od5jHyXvxFToxOR5.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0118617/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0118617/img",
+      "background": "https://image.tmdb.org/t/p/original/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+      "logo": "https://assets.fanart.tv/fanart/anastasia-5042a7071ddde.png",
       "releaseInfo": "1997",
-      "imdbRating": "",
+      "imdbRating": "7.2",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Animation",
+        "Familial",
+        "Fantastique"
       ],
-      "description": "Conte musical féerique entre Saint-Pétersbourg enneigé et Paris."
+      "description": "Saint‐Pétersbourg, 1917. Comment l’impératrice Marie et sa petite fille Anastasia vont être sauvées du funeste sort, provoqué par la révolution, qui s’abat sur la famille impériale, par un jeune employé de cuisine : Dimitri. Mais le destin les sépare une...",
+      "runtime": "1h30min"
     },
     {
       "id": "tt0099487",
       "type": "movie",
       "name": "Edward aux mains d'argent",
-      "poster": "https://images.metahub.space/poster/small/tt0099487/img",
+      "poster": "https://image.tmdb.org/t/p/w500/tMCj9KY70NasF2KsiXWpg0m7smK.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0099487/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0099487/img",
+      "background": "https://image.tmdb.org/t/p/original/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nWxxkFE9rwkMxrtwMSLrvoDOziN.png",
       "releaseInfo": "1990",
-      "imdbRating": "",
+      "imdbRating": "7.8",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Fantastique",
+        "Drame",
+        "Romance"
       ],
-      "description": "Conte poétique et hivernal de Tim Burton, doux et inoubliable."
+      "description": "Edward n’est pas un garçon ordinaire. Création d’un inventeur, il a reçu un cœur pour aimer, un cerveau pour comprendre. Mais son concepteur est mort avant d’avoir pu terminer son œuvre et Edward se retrouve avec des lames de métal et des instruments...",
+      "runtime": "1h45min"
     }
   ]
 }

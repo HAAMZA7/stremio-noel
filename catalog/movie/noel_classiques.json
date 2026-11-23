@@ -4,193 +4,213 @@
       "id": "tt0099785",
       "type": "movie",
       "name": "Maman, j'ai raté l'avion !",
-      "poster": "https://images.metahub.space/poster/small/tt0099785/img",
+      "poster": "https://image.tmdb.org/t/p/w500/7hvfmQ5zgwoxZZOHQ9uGMdIk43t.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0099785/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0099785/img",
+      "background": "https://image.tmdb.org/t/p/original/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/78j52kyhjUSGYZybNmrrw5JIUyO.png",
       "releaseInfo": "1990",
-      "imdbRating": "",
+      "imdbRating": "7.8",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Comédie",
+        "Familial"
       ],
-      "description": "Oublié seul chez lui pour Noël, Kevin piège deux cambrioleurs maladroits dans la maison."
+      "description": "La famille McCallister a décidé de passer les fêtes de Noël à Paris. Seulement Kate et Peter McCallister s'aperçoivent dans l'avion qu'il leur manque le plus jeune de leurs enfants, Kevin, âgé de 9 ans. D'abord désespéré, Kevin reprend vite les choses en...",
+      "runtime": "1h43min"
     },
     {
       "id": "tt0104431",
       "type": "movie",
       "name": "Maman, j'ai encore raté l'avion !",
-      "poster": "https://images.metahub.space/poster/small/tt0104431/img",
+      "poster": "https://image.tmdb.org/t/p/w500/gFhf8NwvEKCbNIOQZxLqj1i5DMy.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0104431/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0104431/img",
+      "background": "https://image.tmdb.org/t/p/original/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/vrfSvJZFCuIMVVWIEKBkQHBLVPH.png",
       "releaseInfo": "1992",
-      "imdbRating": "",
+      "imdbRating": "6.9",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Comédie",
+        "Familial",
+        "Aventure"
       ],
-      "description": "Kevin se trompe d'avion et atterrit seul à New York où il recroise ses deux anciens cambrioleurs."
+      "description": "Après Paris, c'est à Miami que la tribu McCallister décide de passer les fêtes de Noël. À l'aube du jour J, toute la famille est sur le pied de guerre et file a l'aéroport en prenant bien garde de ne pas oublier Kevin. Mais celui-ci s'éclipse pour acheter...",
+      "runtime": "1h59min"
     },
     {
       "id": "tt7018010",
       "type": "movie",
-      "name": "Santa & Cie (Alain Chabat)",
-      "poster": "https://images.metahub.space/poster/small/tt7018010/img",
+      "name": "Santa & Cie",
+      "poster": "https://image.tmdb.org/t/p/w500/mrz2fC1F9H8kbdKu2vOwyeMAzvg.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt7018010/img",
-      "logo": "https://images.metahub.space/logo/medium/tt7018010/img",
+      "background": "https://image.tmdb.org/t/p/original/uc369Ws3HHY4NXCgs2hwb5pjrGN.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zQVo8gI4Q6NiRM5bOiKMnXB3mO1.png",
       "releaseInfo": "2017",
-      "imdbRating": "",
+      "imdbRating": "6.3",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Comédie",
+        "Fantastique",
+        "Familial"
       ],
-      "description": "Les 92 000 lutins tombent malades d'un coup : le Père Noël descend sur Terre chercher de la vitamine C."
+      "description": "Rien ne va plus à l'approche du réveillon : les 92 000 lutins chargés de fabriquer les cadeaux des enfants tombent tous malades en même temps ! C'est un coup dur pour Santa (Claus), plus connu sous le nom de Père Noël... il n'a pas le choix : il doit se...",
+      "runtime": "1h35min"
     },
     {
       "id": "tt0084555",
       "type": "movie",
-      "name": "Le Père Noël est une ordure",
-      "poster": "https://images.metahub.space/poster/small/tt0084555/img",
+      "name": "Le père Noël est une ordure",
+      "poster": "https://image.tmdb.org/t/p/w500/xkTLoFbNpBPt5SyTPqllw9F97YM.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0084555/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0084555/img",
+      "background": "https://image.tmdb.org/t/p/original/wqDy23S6NJaPbUyVecv1WyCuMmy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/f2KW0eZftF6Q3iN38qbN0lOO9kD.png",
       "releaseInfo": "1982",
-      "imdbRating": "",
+      "imdbRating": "7.4",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Comédie"
       ],
-      "description": "La comédie française la plus culte du réveillon, avec la troupe du Splendid."
+      "description": "Félix représente mal le père Noël : il est sale, brutal, vulgaire et il boit. Fatalement, son amie Josette le quitte. Elle trouve refuge à la permanence de SOS détresse tenue par ces 2 coincés que sont Pierre et Thérèse. S'y croisent également un...",
+      "runtime": "1h30min"
     },
     {
       "id": "tt0170016",
       "type": "movie",
-      "name": "Le Grinch (Jim Carrey)",
-      "poster": "https://images.metahub.space/poster/small/tt0170016/img",
+      "name": "Le Grinch",
+      "poster": "https://image.tmdb.org/t/p/w500/i0ZZdtaTEyTtGWdhbqjvrfgEt3F.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0170016/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0170016/img",
+      "background": "https://image.tmdb.org/t/p/original/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mcvclThuuTfrrOhC8FHHFs89nEz.png",
       "releaseInfo": "2000",
-      "imdbRating": "",
+      "imdbRating": "6.4",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Familial",
+        "Comédie",
+        "Fantastique"
       ],
-      "description": "Le Grinch déteste Noël et monte un plan fou pour voler les cadeaux de toute la ville."
+      "description": "Prenez garde ! Il est vert… il est méchant… et il déteste Noël ! Le Grinch est une créature aux longs poils, grincheuse, qui vit et épie les Choux, les habitants de Chouville, du haut du Mont Crumpit. Alors que les Choux redoublent d'activité à l'approche...",
+      "runtime": "1h44min"
     },
     {
       "id": "tt0319343",
       "type": "movie",
       "name": "Elfe",
-      "poster": "https://images.metahub.space/poster/small/tt0319343/img",
+      "poster": "https://image.tmdb.org/t/p/w500/lFJd4NiKVYbdAKb2TfqKA18p1yA.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0319343/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0319343/img",
+      "background": "https://image.tmdb.org/t/p/original/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/cYEfPnbpWS7446BIPW9jBf7xQ2J.png",
       "releaseInfo": "2003",
-      "imdbRating": "",
+      "imdbRating": "7.1",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Comédie",
+        "Familial",
+        "Fantastique"
       ],
-      "description": "Élevé par les lutins au Pôle Nord, Buddy débarque à New York pour retrouver son vrai père."
+      "description": "Buddy, un être humain, est élevé par les lutins du Père Noël depuis sa plus tendre enfance. Lorsqu'il atteint l'âge et la taille adulte, ces derniers s'aperçoivent que cette différence physique commence à poser quelques problèmes : anormalement grand pour...",
+      "runtime": "1h37min"
     },
     {
       "id": "tt14948432",
       "type": "movie",
-      "name": "Red One (2024)",
-      "poster": "https://images.metahub.space/poster/small/tt14948432/img",
+      "name": "Red One",
+      "poster": "https://image.tmdb.org/t/p/w500/prqwbrqHBVWf8NqP0DuFhcOa5tM.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt14948432/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14948432/img",
+      "background": "https://image.tmdb.org/t/p/original/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3imiqs5nEwuh4XZlYMV6ZRZoFG6.png",
       "releaseInfo": "2024",
-      "imdbRating": "",
+      "imdbRating": "6.2",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Action",
+        "Aventure",
+        "Comédie"
       ],
-      "description": "Le Père Noël a été kidnappé : Dwayne Johnson et Chris Evans mènent une mission explosive autour du globe."
+      "description": "Après l'enlèvement du Père Noël, le chef de la sécurité du pôle Nord doit faire équipe avec le chasseur de primes le plus célèbre du monde dans une mission pleine d'action à travers le monde pour sauver Noël.",
+      "runtime": "2h4min"
     },
     {
       "id": "tt14849194",
       "type": "movie",
       "name": "Winter Break",
-      "poster": "https://images.metahub.space/poster/small/tt14849194/img",
+      "poster": "https://image.tmdb.org/t/p/w500/8M1uKLT2Pd3ysLDpikUb5XwGSNQ.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt14849194/img",
-      "logo": "https://images.metahub.space/logo/medium/tt14849194/img",
+      "background": "https://image.tmdb.org/t/p/original/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/53uYZzRhKuyK2Emdiwf8FwZQ7Na.png",
       "releaseInfo": "2023",
-      "imdbRating": "",
+      "imdbRating": "7.9",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Drame",
+        "Comédie"
       ],
-      "description": "Un prof grincheux et un élève rebelle passent les fêtes de Noël seuls dans un pensionnat enneigé."
+      "description": "Un instructeur maussade d'une école préparatoire de la Nouvelle-Angleterre reste sur le campus pendant les vacances de Noël pour garder une poignée d'étudiants qui n'ont nulle part où aller. Il noue bientôt un lien improbable avec un fauteur de troubles...",
+      "runtime": "2h13min"
     },
     {
       "id": "tt0111070",
       "type": "movie",
       "name": "Super Noël",
-      "poster": "https://images.metahub.space/poster/small/tt0111070/img",
+      "poster": "https://image.tmdb.org/t/p/w500/hWWggLAwCapxQHbX9I8BRIzneOy.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0111070/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0111070/img",
+      "background": "https://image.tmdb.org/t/p/original/p89QeYRc2u0rX0eKKU4TLJStwHO.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/y8rGxTdtUvkL1P1n4P42SAznTBy.png",
       "releaseInfo": "1994",
-      "imdbRating": "",
+      "imdbRating": "6.6",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Fantastique",
+        "Drame",
+        "Comédie"
       ],
-      "description": "Un père de famille devient malgré lui le nouveau Père Noël la veille de Noël."
+      "description": "Scott Calvin, un père entretenant des rapports difficiles avec son fils Charlie qu'il ne voit plus qu'épisodiquement, est témoin de l'accident dont est victime le Père Noël. Scott, d'abord étonné mais surtout réticent, accepte d'assurer ce qu'il croit être...",
+      "runtime": "1h37min"
     },
     {
       "id": "tt0110527",
       "type": "movie",
       "name": "Miracle sur la 34e rue",
-      "poster": "https://images.metahub.space/poster/small/tt0110527/img",
+      "poster": "https://image.tmdb.org/t/p/w500/k978Duw2DEAPJvPqefAbyX921tf.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0110527/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0110527/img",
+      "background": "https://image.tmdb.org/t/p/original/oU0lGpUukjNOgZeuIqueNM3QiBE.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2FJQWEYR1fF3oyK1GMLU0Clg4aV.png",
       "releaseInfo": "1994",
-      "imdbRating": "",
+      "imdbRating": "6.7",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Fantastique",
+        "Drame",
+        "Familial"
       ],
-      "description": "Un vieux monsieur engagé dans un grand magasin affirme être le vrai Père Noël."
+      "description": "Un homme se prétendant être le Père Noël est interné dans un institut spécialisé. Persuadé de son identité, un jeune avocat décide de prendre sa défense.",
+      "runtime": "1h54min"
     },
     {
       "id": "tt0116705",
       "type": "movie",
       "name": "La Course au jouet",
-      "poster": "https://images.metahub.space/poster/small/tt0116705/img",
+      "poster": "https://image.tmdb.org/t/p/w500/shdQf5DoeRJsejdpCABZviXJzFa.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0116705/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0116705/img",
+      "background": "https://image.tmdb.org/t/p/original/rnn6sGMGPpM8VfVmCMFxsjKvz7q.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/tfPX5OOWcFNtBBZid1BxHxbUnor.png",
       "releaseInfo": "1996",
-      "imdbRating": "",
+      "imdbRating": "5.8",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Familial",
+        "Aventure",
+        "Comédie"
       ],
-      "description": "Arnold Schwarzenegger traverse toute la ville le 24 décembre pour trouver le jouet star de son fils."
+      "description": "Comme tous les enfants américains, et bientôt les autres, Jamie veut un Turbo Man pour Noël. Seulement son papa, homme d'affaires stressé, a oublié sa promesse. Il s'en souvient quelques heures avant la remise fatidique des cadeaux et part à la chasse au...",
+      "runtime": "1h26min"
     },
     {
       "id": "tt0087363",
       "type": "movie",
       "name": "Gremlins",
-      "poster": "https://images.metahub.space/poster/small/tt0087363/img",
+      "poster": "https://image.tmdb.org/t/p/w500/3iUgvvtB01BuTntPOBcG64kYk6y.jpg",
       "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0087363/img",
-      "logo": "https://images.metahub.space/logo/medium/tt0087363/img",
+      "background": "https://image.tmdb.org/t/p/original/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/bcndK5CHQrUfIGmMSgwe3wwQEjZ.png",
       "releaseInfo": "1984",
-      "imdbRating": "",
+      "imdbRating": "7.3",
       "genres": [
-        "Noël",
-        "Sélection"
+        "Fantastique",
+        "Horreur",
+        "Comédie"
       ],
-      "description": "Un cadeau de Noël trop mignon... avec 3 règles d'or à ne jamais enfreindre."
+      "description": "Rand Peltzer offre à son fils Billy un étrange animal : un mogwai. Son ancien propriétaire l'a bien mis en garde : il ne faut pas l'exposer à la lumière , lui éviter tout contact avec l'eau , et surtout, surtout, ne jamais le nourrir après minuit… Sinon…",
+      "runtime": "1h45min"
     }
   ]
 }

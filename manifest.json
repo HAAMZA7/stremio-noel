@@ -1,14 +1,15 @@
 {
   "id": "com.hamza.stremio.noel.fr",
-  "version": "2.4.0",
+  "version": "3.0.0",
   "name": "🎬 Sélections Maison (FR)",
-  "description": "Portail maison 100% VF vérifié : Noël (3 rangées) + Stephen King, résumés & audio français.",
-  "logo": "https://em-content.zobj.net/source/apple/391/christmas-tree_1f384.png",
+  "description": "Portail cinéma 100% français vérifié VF 4K HDR : Noël, Stephen King, Nouveautés, Films Cultes & Séries.",
+  "logo": "https://em-content.zobj.net/source/apple/391/clapper-board_1f3ac.png",
   "resources": [
     "catalog"
   ],
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "idPrefixes": [
     "tt"
@@ -17,7 +18,7 @@
     {
       "type": "movie",
       "id": "noel_romance",
-      "name": "❤️ Romances & Feel-Good (Noël & Cultes)"
+      "name": "❤️ Romances & Feel-Good de Noël"
     },
     {
       "type": "movie",
@@ -33,6 +34,21 @@
       "type": "movie",
       "id": "stephen_king_fr",
       "name": "🎈 Spécial Stephen King"
+    },
+    {
+      "type": "movie",
+      "id": "nouveautes_fr",
+      "name": "🆕 Nouveautés & Hits Récents"
+    },
+    {
+      "type": "movie",
+      "id": "cultes_fr",
+      "name": "🏆 Films Cultes & Soirées Ciné"
+    },
+    {
+      "type": "series",
+      "id": "series_cultes_fr",
+      "name": "📺 Séries Incontournables"
     }
   ]
 }

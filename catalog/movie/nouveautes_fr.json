@@ -1,0 +1,269 @@
+{
+  "metas": [
+    {
+      "id": "tt26446278",
+      "type": "movie",
+      "name": "Le Comte de Monte-Cristo",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/g7kiprYdXxaYCZABWQwTWAgRYjl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/my8T6b57aivVUaVknxhutVdU8v2.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "runtime": "2h58min",
+      "genres": [
+        "Aventure",
+        "Action",
+        "Drame"
+      ],
+      "description": "Victime d’un complot, le jeune Edmond Dantès est arrêté le jour de son mariage pour un crime qu’il n’a pas commis. Après quatorze ans de détention au château d’If, il parvient à s’évader. Devenu immensément riche, il revient sous l’identité du comte de..."
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune : Deuxième partie",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/tzMKt98RSQFzQ3yuVqCEhAqcM3K.png",
+      "releaseInfo": "2024",
+      "imdbRating": "8.4",
+      "runtime": "2h45min",
+      "genres": [
+        "Science-Fiction",
+        "Aventure"
+      ],
+      "description": "Le voyage mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa quête de vengeance envers les conspirateurs qui ont anéanti sa famille. Devant choisir entre l'amour de sa vie et le destin de l'univers, il fera tout pour éviter un terrible..."
+    },
+    {
+      "id": "tt22022452",
+      "type": "movie",
+      "name": "Vice-versa 2",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/9Jic8z9NEeCEmSJFgFHZF1lWMFo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eO3NJ6DTSbC26vQ3Mv6AQAAJonY.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5",
+      "runtime": "1h37min",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie"
+      ],
+      "description": "Riley, adolescente depuis peu, au moment où le Quartier Cérébral doit être démoli pour faire place à un événement totalement inattendu : de nouvelles Émotions ! Joie, Tristesse, Colère, Peur et Dégoût, qui ont longtemps su contrôler les choses avec succès,..."
+    },
+    {
+      "id": "tt6263850",
+      "type": "movie",
+      "name": "Deadpool & Wolverine",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/7CtRdKd5hQPB2b1apKCqxxQUKSf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pd298Rfg4VBoye4kriAUf5yZfes.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5",
+      "runtime": "2h8min",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Science-Fiction"
+      ],
+      "description": "Un Wade Wilson désabusé s'abrutit de travail dans le civil. Sa vie de mercenaire moralement flexible, Deadpool, est derrière lui. Mais quand son monde est menacé d'anéantissement, il accepte à contrecœur de reprendre le flambeau, et de convaincre un..."
+    },
+    {
+      "id": "tt9218128",
+      "type": "movie",
+      "name": "Gladiator II",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/sUnGXbEdXlgHlK3EkmB5w2NiLlc.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
+      "logo": "https://assets.fanart.tv/fanart/gladiator-ii-67705c800d85c.png",
+      "releaseInfo": "2024",
+      "imdbRating": "6.4",
+      "runtime": "2h28min",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ],
+      "description": "Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle, Lucius est forcé d'entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d'une main de fer. La rage au cœur..."
+    },
+    {
+      "id": "tt29623480",
+      "type": "movie",
+      "name": "Le Robot sauvage",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nwAnY7hBWwdJeg9oPMN828puWxn.png",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1",
+      "runtime": "1h42min",
+      "genres": [
+        "Familial",
+        "Animation",
+        "Science-Fiction"
+      ],
+      "description": "L’incroyable épopée d'un robot -- l'unité ROZZUM 7134 alias « Roz » -- qui après avoir fait naufrage sur une île déserte doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île. Il finit par..."
+    },
+    {
+      "id": "tt18412256",
+      "type": "movie",
+      "name": "Alien : Romulus",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/xmDypImhT0OOloQIj3JLslUrBw8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iYqSQaWDttQIQzsxg9xHyg0bttG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eEgosQyyYFzzOAsGIrcK2vHyYjD.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.1",
+      "runtime": "1h59min",
+      "genres": [
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "description": "Quelques années après les événements sur le vaisseau Nostromo, un groupe de jeunes colons de l'espace travaillent en tant que mineurs dans l'espoir de rejoindre une autre planète verdoyante, Yvaga. Un des membres propose d'utiliser une station spatiale..."
+    },
+    {
+      "id": "tt17526714",
+      "type": "movie",
+      "name": "The Substance",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/5Jfj6LqxOludXg454Vxef8dCJln.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cL519xfEtR8NzE6UmUHyTpNO68I.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jEoHxIdGBUzVqYM4Xg0YUrozyFF.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.2",
+      "runtime": "2h21min",
+      "genres": [
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "description": "Elisabeth Sparkle, vedette d’une émission d’aérobic, est licenciée le jour de ses 50 ans à cause de son âge. Le moral au plus bas, elle reçoit une proposition inattendue, celle d'un mystérieux laboratoire lui proposant une « substance » miraculeuse : si..."
+    },
+    {
+      "id": "tt20215234",
+      "type": "movie",
+      "name": "Conclave",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/8BPRVN1oajfhnDFJiaN3cc4nhso.jpg",
+      "background": "https://image.tmdb.org/t/p/original/91SnazWmEWnnH988aaz0l6NaWY9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pgzxApaPpGjbULx8U7fUqhPrIZy.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.4",
+      "runtime": "2h0min",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ],
+      "description": "Le Cardinal Lawrence est chargé de gérer ce processus confidentiel après la mort inattendue du Pape bien-aimé. Lorsque tous les dirigeants les plus puissants de l’Église catholique sont réunis et enfermés dans le Vatican, Lawrence se retrouve au centre..."
+    },
+    {
+      "id": "tt1262426",
+      "type": "movie",
+      "name": "Wicked",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/kQkgPhj6sCuoMWzPKWQVOWUXzib.jpg",
+      "background": "https://image.tmdb.org/t/p/original/w22GVYotTIVC1dUd58mRhwPqiS.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2NkbMYxRamjmSfHzqnlV7A8kYCX.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "runtime": "2h40min",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Fantastique"
+      ],
+      "description": "Elphaba, une jeune femme incomprise à cause de sa peau verte inhabituelle, doit encore découvrir son véritable pouvoir. Glinda, une jeune femme populaire, dorée par le privilège et l'ambition, doit encore découvrir son véritable cœur. Les deux se..."
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Vaiana 2",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/zdVxpaoQdpheQqWWd6b82eY9Pid.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zenhHwP1VVBSyFbTBV49iR04Snb.png",
+      "releaseInfo": "2024",
+      "imdbRating": "6.3",
+      "runtime": "1h40min",
+      "genres": [
+        "Aventure",
+        "Animation",
+        "Comédie"
+      ],
+      "description": "Après avoir reçu une invitation inattendue de ses ancêtres, Vaiana entreprend un périple qui la conduira jusqu’aux eaux dangereuses situées aux confins des mers des îles du Pacifique. Elle y vivra des péripéties comme jamais vécues auparavant."
+    },
+    {
+      "id": "tt30795948",
+      "type": "movie",
+      "name": "Un p'tit truc en plus",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/uIlJ1wOlEt5K3NowJQDG4qscQAC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rTNMyZ5JcrfKnPamaYOo9wzq3m5.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pwgG8jSNNLjkNr3HfWmtCpodO2n.png",
+      "releaseInfo": "2024",
+      "imdbRating": "6.9",
+      "runtime": "1h39min",
+      "genres": [
+        "Comédie",
+        "Familial"
+      ],
+      "description": "Pour échapper à la police, un père et son fils sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap mental, endossant le rôle d’un éducateur et d’un pensionnaire. Le début des emmerdes et d’une..."
+    },
+    {
+      "id": "tt27490099",
+      "type": "movie",
+      "name": "L'Amour ouf",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/6akNNv4KyrguZUiG4uemfV6toVq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lBcXozUeABairkTavz3X3ZAtOL0.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/9Nsxaoj18bDCDNQ9QvcEe5pgSzb.png",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0",
+      "runtime": "2h41min",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drame"
+      ],
+      "description": "Les années 80, dans le nord de la France. Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie, il traine. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait,..."
+    },
+    {
+      "id": "tt12299608",
+      "type": "movie",
+      "name": "Mickey 17",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/on60ASUpGg1xfiFucuMCv9wVqtq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9PRKAdrDvAdCfg3EcApLTfzGsEt.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/9l3QaVbgs8eLzcBkPQ2a95c8JNc.png",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7",
+      "runtime": "2h11min",
+      "genres": [
+        "Science-Fiction",
+        "Comédie",
+        "Aventure"
+      ],
+      "description": "En 2054, afin de fuir son cruel créancier, le naïf Mickey se porte volontaire pour une mission de colonisation sur Niflheim, une planète de glace. Devenu sans trop le savoir un ouvrier \"consommable\", il est régénéré chaque fois qu'il meurt lors des..."
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Sinners",
+      "posterShape": "poster",
+      "poster": "https://image.tmdb.org/t/p/w500/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
+      "background": "https://image.tmdb.org/t/p/original/j7KqDRzjbvIjDv7cdHz9G3ZYEQy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/neXtMz4lQTtACTSldvNa4ZbujKe.png",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "runtime": "2h18min",
+      "genres": [
+        "Horreur",
+        "Action",
+        "Thriller"
+      ],
+      "description": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience."
+    }
+  ]
+}
