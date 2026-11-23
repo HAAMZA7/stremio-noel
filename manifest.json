@@ -1,8 +1,8 @@
 {
   "id": "com.hamza.stremio.noel.fr",
-  "version": "2.0.0",
-  "name": "🎄 Spécial Noël (FR)",
-  "description": "Le portail Noël tout-en-un : Romances Feel-Good, Classiques & Comédies FR, Magie & Animation.",
+  "version": "2.1.0",
+  "name": "🎬 Sélections Maison (FR)",
+  "description": "Portail maison : 3 rangées Spécial Noël + Spécial Stephen King (titres et résumés en français).",
   "logo": "https://em-content.zobj.net/source/apple/391/christmas-tree_1f384.png",
   "resources": [
     "catalog"
@@ -28,6 +28,11 @@
       "type": "movie",
       "id": "noel_magie",
       "name": "✨ Magie, Animation & Hiver"
+    },
+    {
+      "type": "movie",
+      "id": "stephen_king_fr",
+      "name": "🎈 Spécial Stephen King"
     }
   ]
 }

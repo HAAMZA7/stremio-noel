@@ -1,0 +1,344 @@
+{
+  "metas": [
+    {
+      "id": "tt0120689",
+      "type": "movie",
+      "name": "La Ligne verte",
+      "poster": "https://images.metahub.space/poster/small/tt0120689/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0120689/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0120689/img",
+      "releaseInfo": "1999",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un gardien de prison découvre qu'un condamné à mort possède un don miraculeux. Chef-d'œuvre absolu."
+    },
+    {
+      "id": "tt0111161",
+      "type": "movie",
+      "name": "Les Évadés",
+      "poster": "https://images.metahub.space/poster/small/tt0111161/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0111161/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0111161/img",
+      "releaseInfo": "1994",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Condamné à tort, un banquier noue une amitié inoubliable en prison et prépare sa rédemption."
+    },
+    {
+      "id": "tt0081505",
+      "type": "movie",
+      "name": "Shining",
+      "poster": "https://images.metahub.space/poster/small/tt0081505/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0081505/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0081505/img",
+      "releaseInfo": "1980",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Isolé tout l'hiver dans un hôtel hanté sous la neige, un écrivain sombre peu à peu dans la folie."
+    },
+    {
+      "id": "tt5606664",
+      "type": "movie",
+      "name": "Doctor Sleep",
+      "poster": "https://images.metahub.space/poster/small/tt5606664/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5606664/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5606664/img",
+      "releaseInfo": "2019",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "La suite directe de Shining : Danny Torrance adulte protège une jeune fille aux pouvoirs extraordinaires."
+    },
+    {
+      "id": "tt1396484",
+      "type": "movie",
+      "name": "Ça (Chapitre 1)",
+      "poster": "https://images.metahub.space/poster/small/tt1396484/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1396484/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1396484/img",
+      "releaseInfo": "2017",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Dans la petite ville de Derry, sept enfants affrontent un clown maléfique qui se nourrit de leurs peurs."
+    },
+    {
+      "id": "tt7349950",
+      "type": "movie",
+      "name": "Ça : Chapitre 2",
+      "poster": "https://images.metahub.space/poster/small/tt7349950/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7349950/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7349950/img",
+      "releaseInfo": "2019",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Vingt-sept ans plus tard, le Club des Ratés revient à Derry pour en finir définitivement avec Grippe-Sou."
+    },
+    {
+      "id": "tt0100157",
+      "type": "movie",
+      "name": "Misery",
+      "poster": "https://images.metahub.space/poster/small/tt0100157/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0100157/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0100157/img",
+      "releaseInfo": "1990",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Après un accident sous la neige, un célèbre romancier est recueilli par sa fan numéro un... totalement obsédée."
+    },
+    {
+      "id": "tt0884328",
+      "type": "movie",
+      "name": "The Mist",
+      "poster": "https://images.metahub.space/poster/small/tt0884328/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0884328/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0884328/img",
+      "releaseInfo": "2007",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un épais brouillard rempli de créatures piège les habitants d'une ville dans un supermarché."
+    },
+    {
+      "id": "tt0450385",
+      "type": "movie",
+      "name": "Chambre 1408",
+      "poster": "https://images.metahub.space/poster/small/tt0450385/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0450385/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0450385/img",
+      "releaseInfo": "2007",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un écrivain sceptique décide de passer une nuit dans la chambre d'hôtel la plus hantée de New York."
+    },
+    {
+      "id": "tt0092005",
+      "type": "movie",
+      "name": "Stand by Me (Compte sur moi)",
+      "poster": "https://images.metahub.space/poster/small/tt0092005/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0092005/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0092005/img",
+      "releaseInfo": "1986",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Quatre amis de 12 ans partent en expédition le long d'une voie ferrée durant un été inoubliable."
+    },
+    {
+      "id": "tt0074285",
+      "type": "movie",
+      "name": "Carrie au bal du diable",
+      "poster": "https://images.metahub.space/poster/small/tt0074285/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0074285/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0074285/img",
+      "releaseInfo": "1976",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Une lycéenne solitaire et harcelée découvre qu'elle possède de redoutables pouvoirs télékinésiques."
+    },
+    {
+      "id": "tt0363988",
+      "type": "movie",
+      "name": "Fenêtre secrète",
+      "poster": "https://images.metahub.space/poster/small/tt0363988/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0363988/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0363988/img",
+      "releaseInfo": "2004",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Johnny Depp en écrivain isolé accusé de plagiat par un inconnu inquiétant qui ne le lâche plus."
+    },
+    {
+      "id": "tt3748172",
+      "type": "movie",
+      "name": "Jessie (Gerald's Game)",
+      "poster": "https://images.metahub.space/poster/small/tt3748172/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3748172/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3748172/img",
+      "releaseInfo": "2017",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un week-end romantique dans un chalet isolé tourne au cauchemar psychologique haletant."
+    },
+    {
+      "id": "tt0098084",
+      "type": "movie",
+      "name": "Simetierre (1989)",
+      "poster": "https://images.metahub.space/poster/small/tt0098084/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0098084/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098084/img",
+      "releaseInfo": "1989",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Derrière la nouvelle maison d'une famille se cache un ancien cimetière indien qui ramène les morts à la vie."
+    },
+    {
+      "id": "tt0837563",
+      "type": "movie",
+      "name": "Simetierre (2019)",
+      "poster": "https://images.metahub.space/poster/small/tt0837563/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0837563/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0837563/img",
+      "releaseInfo": "2019",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Version moderne et sombre du roman culte de Stephen King sur le cimetière maudit."
+    },
+    {
+      "id": "tt6214928",
+      "type": "movie",
+      "name": "1922",
+      "poster": "https://images.metahub.space/poster/small/tt6214928/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6214928/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6214928/img",
+      "releaseInfo": "2017",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un fermier du Nebraska avoue un meurtre familial... avant que sa conscience et sa ferme ne se retournent contre lui."
+    },
+    {
+      "id": "tt0085333",
+      "type": "movie",
+      "name": "Christine",
+      "poster": "https://images.metahub.space/poster/small/tt0085333/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0085333/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0085333/img",
+      "releaseInfo": "1983",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un lycéen timide restaure une vieille Plymouth Fury rouge de 1958 dotée d'une volonté propre meurtrière."
+    },
+    {
+      "id": "tt0085407",
+      "type": "movie",
+      "name": "Dead Zone",
+      "poster": "https://images.metahub.space/poster/small/tt0085407/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0085407/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0085407/img",
+      "releaseInfo": "1983",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Après cinq ans de coma, un homme se réveille avec le don terrifiant de voir l'avenir en touchant les gens."
+    },
+    {
+      "id": "tt3427252",
+      "type": "movie",
+      "name": "Le Croque-Mitaine (2023)",
+      "poster": "https://images.metahub.space/poster/small/tt3427252/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3427252/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3427252/img",
+      "releaseInfo": "2023",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Deux sœurs en deuil sont traquées dans leur maison par une entité sadique qui vit dans l'ombre."
+    },
+    {
+      "id": "tt10245072",
+      "type": "movie",
+      "name": "Salem (2024)",
+      "poster": "https://images.metahub.space/poster/small/tt10245072/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10245072/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10245072/img",
+      "releaseInfo": "2024",
+      "imdbRating": "",
+      "genres": [
+        "Stephen King",
+        "Thriller",
+        "Fantastique"
+      ],
+      "description": "Un auteur retourne dans sa ville natale et découvre qu'un vampire transforme peu à peu tous les habitants."
+    }
+  ]
+}
